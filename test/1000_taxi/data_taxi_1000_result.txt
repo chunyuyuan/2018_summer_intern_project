@@ -1,0 +1,332 @@
+
+tpep_pickup_datetime 2015-01-15 10:26:16
+tpep_dropoff_datetime 2015-01-15 10:32:04
+pickup_longitude -74.0055
+pickup_latitude 40.7267
+dropoff_longitude -74.0134
+dropoff_latitude 40.7136
+fare_amount 6.5
+passenger_count 1
+trip_distance 1.20 
+
+
+tpep_pickup_datetime 2015-01-15 09:46:59
+tpep_dropoff_datetime 2015-01-15 09:57:44
+pickup_longitude -74.0113
+pickup_latitude 40.7134
+dropoff_longitude -73.9955
+dropoff_latitude 40.7492
+fare_amount 11.5
+passenger_count 1
+trip_distance 3.10 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:00
+tpep_dropoff_datetime 2015-01-15 09:50:43
+pickup_longitude -74.0022
+pickup_latitude 40.7294
+dropoff_longitude -73.9969
+dropoff_latitude 40.7251
+fare_amount 4.5
+passenger_count 1
+trip_distance .40 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:02
+tpep_dropoff_datetime 2015-01-15 10:14:12
+pickup_longitude -74.0069
+pickup_latitude 40.73
+dropoff_longitude -73.9856
+dropoff_latitude 40.7528
+fare_amount 16.5
+passenger_count 2
+trip_distance 2.20 
+
+
+tpep_pickup_datetime 2015-01-15 09:46:59
+tpep_dropoff_datetime 2015-01-15 09:56:44
+pickup_longitude -73.997
+pickup_latitude 40.7423
+dropoff_longitude -73.9877
+dropoff_latitude 40.7354
+fare_amount 7.5
+passenger_count 1
+trip_distance .80 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:04
+tpep_dropoff_datetime 2015-01-15 10:02:36
+pickup_longitude -73.9887
+pickup_latitude 40.755
+dropoff_longitude -73.99
+dropoff_latitude 40.7387
+fare_amount 10.5
+passenger_count 1
+trip_distance 1.40 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:05
+tpep_dropoff_datetime 2015-01-15 09:52:25
+pickup_longitude -73.9943
+pickup_latitude 40.7503
+dropoff_longitude -74.0023
+dropoff_latitude 40.7486
+fare_amount 5.5
+passenger_count 1
+trip_distance .60 
+
+
+tpep_pickup_datetime 2015-01-15 10:26:14
+tpep_dropoff_datetime 2015-01-15 10:38:13
+pickup_longitude -73.9934
+pickup_latitude 40.742
+dropoff_longitude -73.9874
+dropoff_latitude 40.752
+fare_amount 8.5
+passenger_count 1
+trip_distance .80 
+
+
+tpep_pickup_datetime 2015-01-15 10:26:15
+tpep_dropoff_datetime 2015-01-15 10:33:37
+pickup_longitude -73.9838
+pickup_latitude 40.7424
+dropoff_longitude -73.9873
+dropoff_latitude 40.744
+fare_amount 6
+passenger_count 1
+trip_distance .30 
+
+
+tpep_pickup_datetime 2015-01-15 10:26:16
+tpep_dropoff_datetime 2015-01-15 10:26:42
+pickup_longitude -73.9876
+pickup_latitude 40.7436
+dropoff_longitude -73.9874
+dropoff_latitude 40.7434
+fare_amount 60
+passenger_count 2
+trip_distance .00 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:07
+tpep_dropoff_datetime 2015-01-15 09:55:25
+pickup_longitude -73.9852
+pickup_latitude 40.7416
+dropoff_longitude -73.9788
+dropoff_latitude 40.7505
+fare_amount 7
+passenger_count 1
+trip_distance .70 
+
+
+tpep_pickup_datetime 2015-01-15 10:26:15
+tpep_dropoff_datetime 2015-01-15 10:35:33
+pickup_longitude -73.9851
+pickup_latitude 40.7512
+dropoff_longitude -73.9795
+dropoff_latitude 40.7618
+fare_amount 7.5
+passenger_count 1
+trip_distance .70 
+
+
+tpep_pickup_datetime 2015-01-15 10:26:14
+tpep_dropoff_datetime 2015-01-15 10:49:00
+pickup_longitude -73.9729
+pickup_latitude 40.7611
+dropoff_longitude -74.0097
+dropoff_latitude 40.7095
+fare_amount 23
+passenger_count 2
+trip_distance 6.80 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:04
+tpep_dropoff_datetime 2015-01-15 10:00:56
+pickup_longitude -73.9825
+pickup_latitude 40.7355
+dropoff_longitude -73.991
+dropoff_latitude 40.7488
+fare_amount 10
+passenger_count 2
+trip_distance 1.60 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:03
+tpep_dropoff_datetime 2015-01-15 09:57:10
+pickup_longitude -73.9755
+pickup_latitude 40.7542
+dropoff_longitude -73.9785
+dropoff_latitude 40.7615
+fare_amount 7.5
+passenger_count 1
+trip_distance .70 
+
+
+tpep_pickup_datetime 2015-01-15 10:26:17
+tpep_dropoff_datetime 2015-01-15 10:27:28
+pickup_longitude -73.9465
+pickup_latitude 40.7449
+dropoff_longitude -73.9465
+dropoff_latitude 40.7449
+fare_amount 3
+passenger_count 1
+trip_distance .00 
+
+
+tpep_pickup_datetime 2015-01-15 10:26:13
+tpep_dropoff_datetime 2015-01-15 10:30:49
+pickup_longitude -73.9722
+pickup_latitude 40.7455
+dropoff_longitude -73.9646
+dropoff_latitude 40.756
+fare_amount 5.5
+passenger_count 1
+trip_distance .80 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:03
+tpep_dropoff_datetime 2015-01-15 09:51:15
+pickup_longitude -73.9623
+pickup_latitude 40.7588
+dropoff_longitude -73.9518
+dropoff_latitude 40.7734
+fare_amount 5.5
+passenger_count 1
+trip_distance 1.10 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:05
+tpep_dropoff_datetime 2015-01-15 09:48:54
+pickup_longitude -73.962
+pickup_latitude 40.7595
+dropoff_longitude -73.9568
+dropoff_latitude 40.7649
+fare_amount 3.5
+passenger_count 1
+trip_distance .50 
+
+
+tpep_pickup_datetime 2015-01-15 10:26:15
+tpep_dropoff_datetime 2015-01-15 10:36:03
+pickup_longitude -73.9681
+pickup_latitude 40.7623
+dropoff_longitude -73.9816
+dropoff_latitude 40.747
+fare_amount 8
+passenger_count 1
+trip_distance 1.40 
+
+
+tpep_pickup_datetime 2015-01-15 10:26:14
+tpep_dropoff_datetime 2015-01-15 10:51:03
+pickup_longitude -73.9617
+pickup_latitude 40.7642
+dropoff_longitude -73.9892
+dropoff_latitude 40.742
+fare_amount 16
+passenger_count 1
+trip_distance 2.60 
+
+
+tpep_pickup_datetime 2015-01-15 09:46:59
+tpep_dropoff_datetime 2015-01-15 10:27:34
+pickup_longitude -73.8729
+pickup_latitude 40.774
+dropoff_longitude -74.0001
+dropoff_latitude 40.7193
+fare_amount 34
+passenger_count 1
+trip_distance 9.50 
+
+
+tpep_pickup_datetime 2015-01-15 10:26:16
+tpep_dropoff_datetime 2015-01-15 11:08:10
+pickup_longitude -73.8627
+pickup_latitude 40.7688
+dropoff_longitude -73.9895
+dropoff_latitude 40.7588
+fare_amount 40
+passenger_count 2
+trip_distance 12.60 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:07
+tpep_dropoff_datetime 2015-01-15 10:08:50
+pickup_longitude -73.9741
+pickup_latitude 40.7839
+dropoff_longitude -73.9783
+dropoff_latitude 40.7515
+fare_amount 15
+passenger_count 1
+trip_distance 2.90 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:05
+tpep_dropoff_datetime 2015-01-15 09:53:18
+pickup_longitude -73.9631
+pickup_latitude 40.7717
+dropoff_longitude -73.954
+dropoff_latitude 40.767
+fare_amount 5.5
+passenger_count 1
+trip_distance .70 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:03
+tpep_dropoff_datetime 2015-01-15 09:53:04
+pickup_longitude -73.9473
+pickup_latitude 40.776
+dropoff_longitude -73.9575
+dropoff_latitude 40.7726
+fare_amount 6
+passenger_count 3
+trip_distance .80 
+
+
+tpep_pickup_datetime 2015-01-15 10:26:14
+tpep_dropoff_datetime 2015-01-15 10:42:16
+pickup_longitude -73.9494
+pickup_latitude 40.772
+dropoff_longitude -73.9707
+dropoff_latitude 40.7583
+fare_amount 12.5
+passenger_count 1
+trip_distance 1.90 
+
+
+tpep_pickup_datetime 2015-01-15 10:26:15
+tpep_dropoff_datetime 2015-01-15 10:34:40
+pickup_longitude -73.9476
+pickup_latitude 40.7751
+dropoff_longitude -73.9606
+dropoff_latitude 40.7608
+fare_amount 7.5
+passenger_count 1
+trip_distance 1.30 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:07
+tpep_dropoff_datetime 2015-01-15 09:56:05
+pickup_longitude -73.9792
+pickup_latitude 40.7715
+dropoff_longitude -73.9621
+dropoff_latitude 40.778
+fare_amount 8.5
+passenger_count 1
+trip_distance 1.60 
+
+
+tpep_pickup_datetime 2015-01-15 09:47:05
+tpep_dropoff_datetime 2015-01-15 09:51:23
+pickup_longitude -73.9706
+pickup_latitude 40.7834
+dropoff_longitude -73.9588
+dropoff_latitude 40.7809
+fare_amount 5.5
+passenger_count 1
+trip_distance .90 
+
+
+running time 13 ms

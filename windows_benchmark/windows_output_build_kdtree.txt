@@ -1,0 +1,934 @@
+Microsoft Windows [Version 10.0.17134.407]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\yuanchunyu>cd Desktop
+
+C:\Users\yuanchunyu\Desktop>powershell
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+PS C:\Users\yuanchunyu\Desktop> .\test_loop.bat
+1 knode start...
+A subdirectory or file 1 already exists.
+1 knode build kdtree start...
+Windows 10
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+StringPosition file size 522963800 bytes
+read finished e
+5000000 size sorting done
+10000000 size sorting done
+15000000 size sorting done
+20000000 size sorting done
+25000000 size sorting done
+30000000 size sorting done
+35000000 size sorting done
+40000000 size sorting done
+45000000 size sorting done
+50000000 size sorting done
+55000000 size sorting done
+60000000 size sorting done
+65000000 size sorting done
+kblock file size  1568891400 bytes
+130740949 total node
+kdtree file size  2091855228 bytes
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 35
+Seconds           : 24
+Milliseconds      : 550
+Ticks             : 21245509992
+TotalDays         : 0.0245897106388889
+TotalHours        : 0.590153055333333
+TotalMinutes      : 35.40918332
+TotalSeconds      : 2124.5509992
+TotalMilliseconds : 2124550.9992
+
+
+
+1 " knode  done "
+2 knode start...
+A subdirectory or file 2 already exists.
+2 knode build kdtree start...
+Windows 10
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+StringPosition file size 522963800 bytes
+read finished e
+5000001 size sorting done
+10000001 size sorting done
+15000000 size sorting done
+20000000 size sorting done
+25000000 size sorting done
+30000001 size sorting done
+35000001 size sorting done
+40000000 size sorting done
+45000000 size sorting done
+50000000 size sorting done
+55000000 size sorting done
+60000001 size sorting done
+65000000 size sorting done
+kblock file size  1568891400 bytes
+67108863 total node
+kdtree file size  1073741852 bytes
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 30
+Seconds           : 32
+Milliseconds      : 538
+Ticks             : 18325386196
+TotalDays         : 0.0212099377268519
+TotalHours        : 0.509038505444444
+TotalMinutes      : 30.5423103266667
+TotalSeconds      : 1832.5386196
+TotalMilliseconds : 1832538.6196
+
+
+
+2 " knode  done "
+4 knode start...
+A subdirectory or file 4 already exists.
+4 knode build kdtree start...
+Windows 10
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+StringPosition file size 522963800 bytes
+read finished e
+5000003 size sorting done
+10000003 size sorting done
+15000000 size sorting done
+20000002 size sorting done
+25000002 size sorting done
+30000003 size sorting done
+35000001 size sorting done
+40000000 size sorting done
+45000002 size sorting done
+50000000 size sorting done
+55000000 size sorting done
+60000001 size sorting done
+65000000 size sorting done
+kblock file size  1568891400 bytes
+33554431 total node
+kdtree file size  536870940 bytes
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 28
+Seconds           : 42
+Milliseconds      : 275
+Ticks             : 17222753289
+TotalDays         : 0.0199337422326389
+TotalHours        : 0.478409813583333
+TotalMinutes      : 28.704588815
+TotalSeconds      : 1722.2753289
+TotalMilliseconds : 1722275.3289
+
+
+
+4 " knode  done "
+8 knode start...
+8 knode build kdtree start...
+Windows 10
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+StringPosition file size 522963800 bytes
+read finished e
+5000007 size sorting done
+10000003 size sorting done
+15000000 size sorting done
+20000002 size sorting done
+25000006 size sorting done
+30000003 size sorting done
+35000005 size sorting done
+40000000 size sorting done
+45000006 size sorting done
+50000000 size sorting done
+55000004 size sorting done
+60000001 size sorting done
+65000004 size sorting done
+kblock file size  1568891400 bytes
+16777215 total node
+kdtree file size  268435484 bytes
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 28
+Seconds           : 0
+Milliseconds      : 316
+Ticks             : 16803166312
+TotalDays         : 0.0194481091574074
+TotalHours        : 0.466754619777778
+TotalMinutes      : 28.0052771866667
+TotalSeconds      : 1680.3166312
+TotalMilliseconds : 1680316.6312
+
+
+
+8 " knode  done "
+16 knode start...
+16 knode build kdtree start...
+Windows 10
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+StringPosition file size 522963800 bytes
+read finished e
+5000007 size sorting done
+10000003 size sorting done
+15000000 size sorting done
+20000010 size sorting done
+25000006 size sorting done
+30000003 size sorting done
+35000013 size sorting done
+40000008 size sorting done
+45000006 size sorting done
+50000000 size sorting done
+55000012 size sorting done
+60000009 size sorting done
+65000004 size sorting done
+kblock file size  1568891400 bytes
+8388607 total node
+kdtree file size  134217756 bytes
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 28
+Seconds           : 3
+Milliseconds      : 624
+Ticks             : 16836248699
+TotalDays         : 0.0194863989571759
+TotalHours        : 0.467673574972222
+TotalMinutes      : 28.0604144983333
+TotalSeconds      : 1683.6248699
+TotalMilliseconds : 1683624.8699
+
+
+
+16 " knode  done "
+32 knode start...
+32 knode build kdtree start...
+Windows 10
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+StringPosition file size 522963800 bytes
+read finished e
+5000023 size sorting done
+10000019 size sorting done
+15000016 size sorting done
+20000010 size sorting done
+25000006 size sorting done
+30000003 size sorting done
+35000029 size sorting done
+40000024 size sorting done
+45000022 size sorting done
+50000016 size sorting done
+55000012 size sorting done
+60000009 size sorting done
+65000004 size sorting done
+kblock file size  1568891400 bytes
+4194303 total node
+kdtree file size  67108892 bytes
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 27
+Seconds           : 11
+Milliseconds      : 858
+Ticks             : 16318582262
+TotalDays         : 0.0188872479884259
+TotalHours        : 0.453293951722222
+TotalMinutes      : 27.1976371033333
+TotalSeconds      : 1631.8582262
+TotalMilliseconds : 1631858.2262
+
+
+
+32 " knode  done "
+64 knode start...
+64 knode build kdtree start...
+Windows 10
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+StringPosition file size 522963800 bytes
+read finished e
+5000023 size sorting done
+10000051 size sorting done
+15000016 size sorting done
+20000041 size sorting done
+25000006 size sorting done
+30000035 size sorting done
+35000060 size sorting done
+40000024 size sorting done
+45000054 size sorting done
+50000016 size sorting done
+55000043 size sorting done
+60000009 size sorting done
+65000035 size sorting done
+kblock file size  1568891400 bytes
+2097151 total node
+kdtree file size  33554460 bytes
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 27
+Seconds           : 1
+Milliseconds      : 465
+Ticks             : 16214657083
+TotalDays         : 0.0187669642164352
+TotalHours        : 0.450407141194444
+TotalMinutes      : 27.0244284716667
+TotalSeconds      : 1621.4657083
+TotalMilliseconds : 1621465.7083
+
+
+
+64 " knode  done "
+128 knode start...
+128 knode build kdtree start...
+Windows 10
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+StringPosition file size 522963800 bytes
+read finished e
+5000086 size sorting done
+10000051 size sorting done
+15000016 size sorting done
+20000104 size sorting done
+25000069 size sorting done
+30000035 size sorting done
+35000123 size sorting done
+40000087 size sorting done
+45000054 size sorting done
+50000016 size sorting done
+55000106 size sorting done
+60000072 size sorting done
+65000035 size sorting done
+kblock file size  1568891400 bytes
+1048575 total node
+kdtree file size  16777244 bytes
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 26
+Seconds           : 59
+Milliseconds      : 336
+Ticks             : 16193364423
+TotalDays         : 0.0187423199340278
+TotalHours        : 0.449815678416667
+TotalMinutes      : 26.988940705
+TotalSeconds      : 1619.3364423
+TotalMilliseconds : 1619336.4423
+
+
+
+128 " knode  done "
+256 knode start...
+256 knode build kdtree start...
+Windows 10
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+StringPosition file size 522963800 bytes
+read finished e
+5000086 size sorting done
+10000176 size sorting done
+15000016 size sorting done
+20000104 size sorting done
+25000194 size sorting done
+30000035 size sorting done
+35000123 size sorting done
+40000212 size sorting done
+45000054 size sorting done
+50000141 size sorting done
+55000231 size sorting done
+60000072 size sorting done
+65000160 size sorting done
+kblock file size  1568891400 bytes
+524287 total node
+kdtree file size  8388636 bytes
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 26
+Seconds           : 50
+Milliseconds      : 282
+Ticks             : 16102820695
+TotalDays         : 0.0186375239525463
+TotalHours        : 0.447300574861111
+TotalMinutes      : 26.8380344916667
+TotalSeconds      : 1610.2820695
+TotalMilliseconds : 1610282.0695
+
+
+
+256 " knode  done "
+512 knode start...
+512 knode build kdtree start...
+Windows 10
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+StringPosition file size 522963800 bytes
+read finished e
+5000336 size sorting done
+10000176 size sorting done
+15000016 size sorting done
+20000354 size sorting done
+25000194 size sorting done
+30000035 size sorting done
+35000373 size sorting done
+40000212 size sorting done
+45000054 size sorting done
+50000391 size sorting done
+55000231 size sorting done
+60000072 size sorting done
+65000410 size sorting done
+kblock file size  1568891400 bytes
+262143 total node
+kdtree file size  4194332 bytes
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 26
+Seconds           : 37
+Milliseconds      : 965
+Ticks             : 15979657013
+TotalDays         : 0.0184949733946759
+TotalHours        : 0.443879361472222
+TotalMinutes      : 26.6327616883333
+TotalSeconds      : 1597.9657013
+TotalMilliseconds : 1597965.7013
+
+
+
+512 " knode  done "
+1024 knode start...
+1024 knode build kdtree start...
+Windows 10
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+StringPosition file size 522963800 bytes
+read finished e
+5000336 size sorting done
+10000675 size sorting done
+15000016 size sorting done
+20000354 size sorting done
+25000693 size sorting done
+30000035 size sorting done
+35000373 size sorting done
+40000711 size sorting done
+45000054 size sorting done
+50000391 size sorting done
+55000730 size sorting done
+60000072 size sorting done
+65000410 size sorting done
+kblock file size  1568891400 bytes
+131071 total node
+kdtree file size  2097180 bytes
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 26
+Seconds           : 29
+Milliseconds      : 448
+Ticks             : 15894486223
+TotalDays         : 0.0183963960914352
+TotalHours        : 0.441513506194444
+TotalMinutes      : 26.4908103716667
+TotalSeconds      : 1589.4486223
+TotalMilliseconds : 1589448.6223
+
+
+
+1024 " knode  done "
+Press any key to continue . . .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

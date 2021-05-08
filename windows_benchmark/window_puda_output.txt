@@ -1,0 +1,6415 @@
+Microsoft Windows [Version 10.0.17134.407]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\yuanchunyu>powershell
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+PS C:\Users\yuanchunyu> cd .\Desktop\
+PS C:\Users\yuanchunyu\Desktop> .\puda_test_search.bat
+1 knode start...
+A subdirectory or file 1 already exists.
+1 Query range start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2091855228
+318 length
+recover index file 78367 ms
+0,1000,1001
+2,100.0,150.0
+1,600.0,700.0
+4,100.0,110.0
+3,600.0,700.0
+target size 1792
+search done touch data (before IO ) average time 31.0 ms
+search done (include IO ) average time 671.0 ms
+target size 1792
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 59.0 ms
+target size 1792
+search done touch data (before IO ) average time 15.0 ms
+search done (include IO ) average time 61.0 ms
+target size 1792
+search done touch data (before IO ) average time 18.0 ms
+search done (include IO ) average time 65.0 ms
+target size 1792
+search done touch data (before IO ) average time 19.0 ms
+search done (include IO ) average time 58.0 ms
+target size 1792
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 57.0 ms
+target size 1792
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 73.0 ms
+target size 1792
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 73.0 ms
+target size 1792
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 156.0 ms
+target size 1792
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 65.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 1
+Seconds           : 37
+Milliseconds      : 630
+Ticks             : 976305220
+TotalDays         : 0.00112998289351852
+TotalHours        : 0.0271195894444444
+TotalMinutes      : 1.62717536666667
+TotalSeconds      : 97.630522
+TotalMilliseconds : 97630.522
+
+
+
+1 " range  done "
+2 knode start...
+A subdirectory or file 2 already exists.
+2 Query range start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 1073741852
+318 length
+recover index file 8848 ms
+0,1000,1001
+2,100.0,150.0
+1,600.0,700.0
+4,100.0,110.0
+3,600.0,700.0
+target size 1792
+search done touch data (before IO ) average time 157.0 ms
+search done (include IO ) average time 532.0 ms
+target size 1792
+search done touch data (before IO ) average time 10.0 ms
+search done (include IO ) average time 61.0 ms
+target size 1792
+search done touch data (before IO ) average time 10.0 ms
+search done (include IO ) average time 60.0 ms
+target size 1792
+search done touch data (before IO ) average time 10.0 ms
+search done (include IO ) average time 62.0 ms
+target size 1792
+search done touch data (before IO ) average time 8.0 ms
+search done (include IO ) average time 51.0 ms
+target size 1792
+search done touch data (before IO ) average time 9.0 ms
+search done (include IO ) average time 49.0 ms
+target size 1792
+search done touch data (before IO ) average time 13.0 ms
+search done (include IO ) average time 59.0 ms
+target size 1792
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 46.0 ms
+target size 1792
+search done touch data (before IO ) average time 9.0 ms
+search done (include IO ) average time 75.0 ms
+target size 1792
+search done touch data (before IO ) average time 12.0 ms
+search done (include IO ) average time 60.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 11
+Milliseconds      : 744
+Ticks             : 117445414
+TotalDays         : 0.00013593219212963
+TotalHours        : 0.00326237261111111
+TotalMinutes      : 0.195742356666667
+TotalSeconds      : 11.7445414
+TotalMilliseconds : 11744.5414
+
+
+
+2 " range  done "
+4 knode start...
+A subdirectory or file 4 already exists.
+4 Query range start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 536870940
+318 length
+recover index file 6172 ms
+0,1000,1001
+2,100.0,150.0
+1,600.0,700.0
+4,100.0,110.0
+3,600.0,700.0
+target size 1792
+search done touch data (before IO ) average time 887.0 ms
+search done (include IO ) average time 2729.0 ms
+target size 1792
+search done touch data (before IO ) average time 43.0 ms
+search done (include IO ) average time 145.0 ms
+target size 1792
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 63.0 ms
+target size 1792
+search done touch data (before IO ) average time 9.0 ms
+search done (include IO ) average time 64.0 ms
+target size 1792
+search done touch data (before IO ) average time 8.0 ms
+search done (include IO ) average time 46.0 ms
+target size 1792
+search done touch data (before IO ) average time 7.0 ms
+search done (include IO ) average time 53.0 ms
+target size 1792
+search done touch data (before IO ) average time 8.0 ms
+search done (include IO ) average time 54.0 ms
+target size 1792
+search done touch data (before IO ) average time 9.0 ms
+search done (include IO ) average time 50.0 ms
+target size 1792
+search done touch data (before IO ) average time 9.0 ms
+search done (include IO ) average time 54.0 ms
+target size 1792
+search done touch data (before IO ) average time 6.0 ms
+search done (include IO ) average time 51.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 11
+Milliseconds      : 159
+Ticks             : 111598712
+TotalDays         : 0.000129165175925926
+TotalHours        : 0.00309996422222222
+TotalMinutes      : 0.185997853333333
+TotalSeconds      : 11.1598712
+TotalMilliseconds : 11159.8712
+
+
+
+4 " range  done "
+8 knode start...
+A subdirectory or file 8 already exists.
+8 Query range start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 268435484
+318 length
+recover index file 4024 ms
+0,1000,1001
+2,100.0,150.0
+1,600.0,700.0
+4,100.0,110.0
+3,600.0,700.0
+target size 1792
+search done touch data (before IO ) average time 212.0 ms
+search done (include IO ) average time 1097.0 ms
+target size 1792
+search done touch data (before IO ) average time 4.0 ms
+search done (include IO ) average time 51.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 50.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 43.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 34.0 ms
+target size 1792
+search done touch data (before IO ) average time 4.0 ms
+search done (include IO ) average time 37.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 40.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 33.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 36.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 35.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 6
+Milliseconds      : 632
+Ticks             : 66321359
+TotalDays         : 7.67608321759259E-05
+TotalHours        : 0.00184225997222222
+TotalMinutes      : 0.110535598333333
+TotalSeconds      : 6.6321359
+TotalMilliseconds : 6632.1359
+
+
+
+8 " range  done "
+16 knode start...
+A subdirectory or file 16 already exists.
+16 Query range start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 134217756
+318 length
+recover index file 3014 ms
+0,1000,1001
+2,100.0,150.0
+1,600.0,700.0
+4,100.0,110.0
+3,600.0,700.0
+target size 1792
+search done touch data (before IO ) average time 507.0 ms
+search done (include IO ) average time 1657.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 71.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 65.0 ms
+target size 1792
+search done touch data (before IO ) average time 4.0 ms
+search done (include IO ) average time 77.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 165.0 ms
+target size 1792
+search done touch data (before IO ) average time 9.0 ms
+search done (include IO ) average time 173.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 53.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 54.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 55.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 56.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 7
+Milliseconds      : 88
+Ticks             : 70886344
+TotalDays         : 8.20443796296296E-05
+TotalHours        : 0.00196906511111111
+TotalMinutes      : 0.118143906666667
+TotalSeconds      : 7.0886344
+TotalMilliseconds : 7088.6344
+
+
+
+16 " range  done "
+32 knode start...
+A subdirectory or file 32 already exists.
+32 Query range start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 67108892
+318 length
+recover index file 2313 ms
+0,1000,1001
+2,100.0,150.0
+1,600.0,700.0
+4,100.0,110.0
+3,600.0,700.0
+target size 1792
+search done touch data (before IO ) average time 119.0 ms
+search done (include IO ) average time 561.0 ms
+target size 1792
+search done touch data (before IO ) average time 4.0 ms
+search done (include IO ) average time 95.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 91.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 97.0 ms
+target size 1792
+search done touch data (before IO ) average time 1.0 ms
+search done (include IO ) average time 82.0 ms
+target size 1792
+search done touch data (before IO ) average time 1.0 ms
+search done (include IO ) average time 86.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 74.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 86.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 74.0 ms
+target size 1792
+search done touch data (before IO ) average time 1.0 ms
+search done (include IO ) average time 69.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 4
+Milliseconds      : 701
+Ticks             : 47018320
+TotalDays         : 5.44193518518518E-05
+TotalHours        : 0.00130606444444444
+TotalMinutes      : 0.0783638666666667
+TotalSeconds      : 4.701832
+TotalMilliseconds : 4701.832
+
+
+
+32 " range  done "
+64 knode start...
+A subdirectory or file 64 already exists.
+64 Query range start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 33554460
+318 length
+recover index file 2314 ms
+0,1000,1001
+2,100.0,150.0
+1,600.0,700.0
+4,100.0,110.0
+3,600.0,700.0
+target size 1792
+search done touch data (before IO ) average time 1311.0 ms
+search done (include IO ) average time 4208.0 ms
+target size 1792
+search done touch data (before IO ) average time 4.0 ms
+search done (include IO ) average time 83.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 87.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 80.0 ms
+target size 1792
+search done touch data (before IO ) average time 1.0 ms
+search done (include IO ) average time 79.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 132.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 228.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 52.0 ms
+target size 1792
+search done touch data (before IO ) average time 1.0 ms
+search done (include IO ) average time 99.0 ms
+target size 1792
+search done touch data (before IO ) average time 1.0 ms
+search done (include IO ) average time 55.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 9
+Milliseconds      : 68
+Ticks             : 90686150
+TotalDays         : 0.000104960821759259
+TotalHours        : 0.00251905972222222
+TotalMinutes      : 0.151143583333333
+TotalSeconds      : 9.068615
+TotalMilliseconds : 9068.615
+
+
+
+64 " range  done "
+128 knode start...
+A subdirectory or file 128 already exists.
+128 Query range start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 16777244
+318 length
+recover index file 1420 ms
+0,1000,1001
+2,100.0,150.0
+1,600.0,700.0
+4,100.0,110.0
+3,600.0,700.0
+target size 1792
+search done touch data (before IO ) average time 291.0 ms
+search done (include IO ) average time 1517.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 99.0 ms
+target size 1792
+search done touch data (before IO ) average time 4.0 ms
+search done (include IO ) average time 72.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 216.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 108.0 ms
+target size 1792
+search done touch data (before IO ) average time 4.0 ms
+search done (include IO ) average time 118.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 156.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 67.0 ms
+target size 1792
+search done touch data (before IO ) average time 1.0 ms
+search done (include IO ) average time 99.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 62.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 5
+Milliseconds      : 206
+Ticks             : 52066535
+TotalDays         : 6.0262193287037E-05
+TotalHours        : 0.00144629263888889
+TotalMinutes      : 0.0867775583333333
+TotalSeconds      : 5.2066535
+TotalMilliseconds : 5206.6535
+
+
+
+128 " range  done "
+256 knode start...
+A subdirectory or file 256 already exists.
+256 Query range start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 8388636
+318 length
+recover index file 2119 ms
+0,1000,1001
+2,100.0,150.0
+1,600.0,700.0
+4,100.0,110.0
+3,600.0,700.0
+target size 1792
+search done touch data (before IO ) average time 396.0 ms
+search done (include IO ) average time 897.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 75.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 66.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 67.0 ms
+target size 1792
+search done touch data (before IO ) average time 1.0 ms
+search done (include IO ) average time 56.0 ms
+target size 1792
+search done touch data (before IO ) average time 1.0 ms
+search done (include IO ) average time 60.0 ms
+target size 1792
+search done touch data (before IO ) average time 1.0 ms
+search done (include IO ) average time 63.0 ms
+target size 1792
+search done touch data (before IO ) average time 1.0 ms
+search done (include IO ) average time 60.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 66.0 ms
+target size 1792
+search done touch data (before IO ) average time 1.0 ms
+search done (include IO ) average time 64.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 4
+Milliseconds      : 621
+Ticks             : 46216519
+TotalDays         : 5.34913414351852E-05
+TotalHours        : 0.00128379219444444
+TotalMinutes      : 0.0770275316666667
+TotalSeconds      : 4.6216519
+TotalMilliseconds : 4621.6519
+
+
+
+256 " range  done "
+512 knode start...
+A subdirectory or file 512 already exists.
+512 Query range start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 4194332
+318 length
+recover index file 3325 ms
+0,1000,1001
+2,100.0,150.0
+1,600.0,700.0
+4,100.0,110.0
+3,600.0,700.0
+target size 1792
+search done touch data (before IO ) average time 108.0 ms
+search done (include IO ) average time 445.0 ms
+target size 1792
+search done touch data (before IO ) average time 5.0 ms
+search done (include IO ) average time 88.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 72.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 77.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 52.0 ms
+target size 1792
+search done touch data (before IO ) average time 1.0 ms
+search done (include IO ) average time 78.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 56.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 55.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 65.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 59.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 5
+Milliseconds      : 483
+Ticks             : 54836221
+TotalDays         : 6.34678483796296E-05
+TotalHours        : 0.00152322836111111
+TotalMinutes      : 0.0913937016666667
+TotalSeconds      : 5.4836221
+TotalMilliseconds : 5483.6221
+
+
+
+512 " range  done "
+1024 knode start...
+A subdirectory or file 1024 already exists.
+1024 Query range start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2097180
+318 length
+recover index file 2167 ms
+0,1000,1001
+2,100.0,150.0
+1,600.0,700.0
+4,100.0,110.0
+3,600.0,700.0
+target size 1792
+search done touch data (before IO ) average time 49.0 ms
+search done (include IO ) average time 388.0 ms
+target size 1792
+search done touch data (before IO ) average time 5.0 ms
+search done (include IO ) average time 117.0 ms
+target size 1792
+search done touch data (before IO ) average time 4.0 ms
+search done (include IO ) average time 158.0 ms
+target size 1792
+search done touch data (before IO ) average time 3.0 ms
+search done (include IO ) average time 222.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 204.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 110.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 87.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 217.0 ms
+target size 1792
+search done touch data (before IO ) average time 10.0 ms
+search done (include IO ) average time 160.0 ms
+target size 1792
+search done touch data (before IO ) average time 2.0 ms
+search done (include IO ) average time 91.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 5
+Milliseconds      : 260
+Ticks             : 52606466
+TotalDays         : 6.08871134259259E-05
+TotalHours        : 0.00146129072222222
+TotalMinutes      : 0.0876774433333333
+TotalSeconds      : 5.2606466
+TotalMilliseconds : 5260.6466
+
+
+
+1024 " range  done "
+Press any key to continue . . .
+1 top start...
+1 knode start...
+A subdirectory or file 1 already exists.
+1 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2091855228
+318 length
+recover index file 79989 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 263.0 ms
+search done (include IO ) average time 280.0 ms
+Find K 1
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 108.0 ms
+search done (include IO ) average time 109.0 ms
+Find K 1
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 45.0 ms
+search done (include IO ) average time 45.0 ms
+Find K 1
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 44.0 ms
+search done (include IO ) average time 44.0 ms
+Find K 1
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 34.0 ms
+search done (include IO ) average time 34.0 ms
+Find K 1
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 43.0 ms
+search done (include IO ) average time 44.0 ms
+Find K 1
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 31.0 ms
+search done (include IO ) average time 32.0 ms
+Find K 1
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 43.0 ms
+search done (include IO ) average time 44.0 ms
+Find K 1
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 38.0 ms
+search done (include IO ) average time 38.0 ms
+Find K 1
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 35.0 ms
+search done (include IO ) average time 35.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 1
+Seconds           : 23
+Milliseconds      : 126
+Ticks             : 831260682
+TotalDays         : 0.000962107270833333
+TotalHours        : 0.0230905745
+TotalMinutes      : 1.38543447
+TotalSeconds      : 83.1260682
+TotalMilliseconds : 83126.0682
+
+
+
+1 " topK  done "
+2 knode start...
+A subdirectory or file 2 already exists.
+2 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 1073741852
+318 length
+recover index file 9303 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 69.0 ms
+search done (include IO ) average time 71.0 ms
+Find K 1
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 29.0 ms
+Find K 1
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 29.0 ms
+search done (include IO ) average time 29.0 ms
+Find K 1
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 37.0 ms
+search done (include IO ) average time 37.0 ms
+Find K 1
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 27.0 ms
+Find K 1
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 33.0 ms
+search done (include IO ) average time 34.0 ms
+Find K 1
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 27.0 ms
+Find K 1
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 27.0 ms
+Find K 1
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 29.0 ms
+Find K 1
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 45.0 ms
+search done (include IO ) average time 45.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 11
+Milliseconds      : 240
+Ticks             : 112408990
+TotalDays         : 0.000130102997685185
+TotalHours        : 0.00312247194444444
+TotalMinutes      : 0.187348316666667
+TotalSeconds      : 11.240899
+TotalMilliseconds : 11240.899
+
+
+
+2 " topK  done "
+4 knode start...
+A subdirectory or file 4 already exists.
+4 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 536870940
+318 length
+recover index file 6862 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 119.0 ms
+search done (include IO ) average time 122.0 ms
+Find K 1
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 43.0 ms
+search done (include IO ) average time 43.0 ms
+Find K 1
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 26.0 ms
+Find K 1
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 24.0 ms
+search done (include IO ) average time 25.0 ms
+Find K 1
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 21.0 ms
+Find K 1
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 22.0 ms
+Find K 1
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 23.0 ms
+Find K 1
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 20.0 ms
+Find K 1
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 20.0 ms
+Find K 1
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 19.0 ms
+search done (include IO ) average time 20.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 8
+Milliseconds      : 393
+Ticks             : 83939573
+TotalDays         : 9.71522835648148E-05
+TotalHours        : 0.00233165480555556
+TotalMinutes      : 0.139899288333333
+TotalSeconds      : 8.3939573
+TotalMilliseconds : 8393.9573
+
+
+
+4 " topK  done "
+8 knode start...
+A subdirectory or file 8 already exists.
+8 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 268435484
+318 length
+recover index file 4350 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 60.0 ms
+search done (include IO ) average time 62.0 ms
+Find K 1
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 28.0 ms
+Find K 1
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 22.0 ms
+Find K 1
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 19.0 ms
+search done (include IO ) average time 19.0 ms
+Find K 1
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 16.0 ms
+Find K 1
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 16.0 ms
+Find K 1
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 15.0 ms
+search done (include IO ) average time 15.0 ms
+Find K 1
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 16.0 ms
+Find K 1
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 16.0 ms
+Find K 1
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 15.0 ms
+search done (include IO ) average time 16.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 5
+Milliseconds      : 910
+Ticks             : 59106049
+TotalDays         : 6.84097789351852E-05
+TotalHours        : 0.00164183469444444
+TotalMinutes      : 0.0985100816666667
+TotalSeconds      : 5.9106049
+TotalMilliseconds : 5910.6049
+
+
+
+8 " topK  done "
+16 knode start...
+A subdirectory or file 16 already exists.
+16 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 134217756
+318 length
+recover index file 2535 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 68.0 ms
+search done (include IO ) average time 70.0 ms
+Find K 1
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 21.0 ms
+Find K 1
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 17.0 ms
+Find K 1
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 14.0 ms
+search done (include IO ) average time 14.0 ms
+Find K 1
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 18.0 ms
+Find K 1
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 12.0 ms
+Find K 1
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 12.0 ms
+search done (include IO ) average time 12.0 ms
+Find K 1
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 10.0 ms
+search done (include IO ) average time 11.0 ms
+Find K 1
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 10.0 ms
+search done (include IO ) average time 10.0 ms
+Find K 1
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 13.0 ms
+search done (include IO ) average time 14.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 3
+Milliseconds      : 390
+Ticks             : 33901409
+TotalDays         : 3.92377418981481E-05
+TotalHours        : 0.000941705805555556
+TotalMinutes      : 0.0565023483333333
+TotalSeconds      : 3.3901409
+TotalMilliseconds : 3390.1409
+
+
+
+16 " topK  done "
+32 knode start...
+A subdirectory or file 32 already exists.
+32 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 67108892
+318 length
+recover index file 3602 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 73.0 ms
+search done (include IO ) average time 75.0 ms
+Find K 1
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 21.0 ms
+Find K 1
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 12.0 ms
+Find K 1
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 12.0 ms
+Find K 1
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 9.0 ms
+search done (include IO ) average time 9.0 ms
+Find K 1
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 11.0 ms
+Find K 1
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 7.0 ms
+search done (include IO ) average time 7.0 ms
+Find K 1
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 6.0 ms
+search done (include IO ) average time 6.0 ms
+Find K 1
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 7.0 ms
+search done (include IO ) average time 7.0 ms
+Find K 1
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 6.0 ms
+search done (include IO ) average time 6.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 4
+Milliseconds      : 766
+Ticks             : 47669812
+TotalDays         : 5.51733935185185E-05
+TotalHours        : 0.00132416144444444
+TotalMinutes      : 0.0794496866666667
+TotalSeconds      : 4.7669812
+TotalMilliseconds : 4766.9812
+
+
+
+32 " topK  done "
+64 knode start...
+A subdirectory or file 64 already exists.
+64 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 33554460
+318 length
+recover index file 2187 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 65.0 ms
+search done (include IO ) average time 67.0 ms
+Find K 1
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 27.0 ms
+Find K 1
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 14.0 ms
+Find K 1
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 10.0 ms
+search done (include IO ) average time 11.0 ms
+Find K 1
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 11.0 ms
+Find K 1
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 12.0 ms
+Find K 1
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 10.0 ms
+search done (include IO ) average time 10.0 ms
+Find K 1
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 8.0 ms
+search done (include IO ) average time 8.0 ms
+Find K 1
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 9.0 ms
+search done (include IO ) average time 10.0 ms
+Find K 1
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 9.0 ms
+search done (include IO ) average time 10.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 4
+Milliseconds      : 531
+Ticks             : 45319560
+TotalDays         : 5.24531944444444E-05
+TotalHours        : 0.00125887666666667
+TotalMinutes      : 0.0755326
+TotalSeconds      : 4.531956
+TotalMilliseconds : 4531.956
+
+
+
+64 " topK  done "
+128 knode start...
+A subdirectory or file 128 already exists.
+128 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 16777244
+318 length
+recover index file 2930 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 119.0 ms
+search done (include IO ) average time 121.0 ms
+Find K 1
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 18.0 ms
+Find K 1
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 18.0 ms
+Find K 1
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 14.0 ms
+search done (include IO ) average time 14.0 ms
+Find K 1
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 13.0 ms
+search done (include IO ) average time 13.0 ms
+Find K 1
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 13.0 ms
+search done (include IO ) average time 13.0 ms
+Find K 1
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 9.0 ms
+search done (include IO ) average time 10.0 ms
+Find K 1
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 12.0 ms
+Find K 1
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 11.0 ms
+Find K 1
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 10.0 ms
+search done (include IO ) average time 11.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 5
+Milliseconds      : 100
+Ticks             : 51003046
+TotalDays         : 5.90313032407407E-05
+TotalHours        : 0.00141675127777778
+TotalMinutes      : 0.0850050766666667
+TotalSeconds      : 5.1003046
+TotalMilliseconds : 5100.3046
+
+
+
+128 " topK  done "
+256 knode start...
+A subdirectory or file 256 already exists.
+256 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 8388636
+318 length
+recover index file 3758 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 2228.0 ms
+search done (include IO ) average time 2407.0 ms
+Find K 1
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 110.0 ms
+search done (include IO ) average time 111.0 ms
+Find K 1
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 47.0 ms
+search done (include IO ) average time 49.0 ms
+Find K 1
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 29.0 ms
+Find K 1
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 18.0 ms
+Find K 1
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 15.0 ms
+search done (include IO ) average time 16.0 ms
+Find K 1
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 14.0 ms
+search done (include IO ) average time 14.0 ms
+Find K 1
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 14.0 ms
+search done (include IO ) average time 15.0 ms
+Find K 1
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 12.0 ms
+search done (include IO ) average time 12.0 ms
+Find K 1
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 12.0 ms
+search done (include IO ) average time 12.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 9
+Milliseconds      : 806
+Ticks             : 98066784
+TotalDays         : 0.000113503222222222
+TotalHours        : 0.00272407733333333
+TotalMinutes      : 0.16344464
+TotalSeconds      : 9.8066784
+TotalMilliseconds : 9806.6784
+
+
+
+256 " topK  done "
+512 knode start...
+A subdirectory or file 512 already exists.
+512 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 4194332
+318 length
+recover index file 2405 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 120.0 ms
+search done (include IO ) average time 123.0 ms
+Find K 1
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 35.0 ms
+search done (include IO ) average time 36.0 ms
+Find K 1
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 31.0 ms
+Find K 1
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 29.0 ms
+Find K 1
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 24.0 ms
+search done (include IO ) average time 24.0 ms
+Find K 1
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 20.0 ms
+Find K 1
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 20.0 ms
+Find K 1
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 17.0 ms
+Find K 1
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 18.0 ms
+search done (include IO ) average time 19.0 ms
+Find K 1
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 21.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 4
+Milliseconds      : 253
+Ticks             : 42532967
+TotalDays         : 4.92279710648148E-05
+TotalHours        : 0.00118147130555556
+TotalMinutes      : 0.0708882783333333
+TotalSeconds      : 4.2532967
+TotalMilliseconds : 4253.2967
+
+
+
+512 " topK  done "
+1024 knode start...
+A subdirectory or file 1024 already exists.
+1024 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2097180
+318 length
+recover index file 1674 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 1294.0 ms
+search done (include IO ) average time 1298.0 ms
+Find K 1
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 31.0 ms
+Find K 1
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 29.0 ms
+search done (include IO ) average time 30.0 ms
+Find K 1
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 22.0 ms
+Find K 1
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 17.0 ms
+Find K 1
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 17.0 ms
+Find K 1
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 18.0 ms
+search done (include IO ) average time 18.0 ms
+Find K 1
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 18.0 ms
+Find K 1
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 18.0 ms
+Find K 1
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 19.0 ms
+search done (include IO ) average time 19.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 4
+Milliseconds      : 62
+Ticks             : 40620006
+TotalDays         : 4.70138958333333E-05
+TotalHours        : 0.0011283335
+TotalMinutes      : 0.06770001
+TotalSeconds      : 4.0620006
+TotalMilliseconds : 4062.0006
+
+
+
+1024 " topK  done "
+1 top done
+10 top start...
+1 knode start...
+A subdirectory or file 1 already exists.
+1 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2091855228
+318 length
+recover index file 84795 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 10
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 94.0 ms
+search done (include IO ) average time 103.0 ms
+Find K 10
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 51.0 ms
+search done (include IO ) average time 52.0 ms
+Find K 10
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 39.0 ms
+search done (include IO ) average time 41.0 ms
+Find K 10
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 90.0 ms
+search done (include IO ) average time 91.0 ms
+Find K 10
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 41.0 ms
+search done (include IO ) average time 185.0 ms
+Find K 10
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 140.0 ms
+search done (include IO ) average time 146.0 ms
+Find K 10
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 48.0 ms
+search done (include IO ) average time 50.0 ms
+Find K 10
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 52.0 ms
+search done (include IO ) average time 53.0 ms
+Find K 10
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 48.0 ms
+search done (include IO ) average time 50.0 ms
+Find K 10
+
+leaf node 4017
+target size 15
+search done touch data (before IO ) average time 42.0 ms
+search done (include IO ) average time 46.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 1
+Seconds           : 28
+Milliseconds      : 328
+Ticks             : 883284344
+TotalDays         : 0.00102231984259259
+TotalHours        : 0.0245356762222222
+TotalMinutes      : 1.47214057333333
+TotalSeconds      : 88.3284344
+TotalMilliseconds : 88328.4344
+
+
+
+1 " topK  done "
+2 knode start...
+A subdirectory or file 2 already exists.
+2 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 1073741852
+318 length
+recover index file 9781 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 10
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 74.0 ms
+search done (include IO ) average time 79.0 ms
+Find K 10
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 30.0 ms
+Find K 10
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 32.0 ms
+Find K 10
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 33.0 ms
+Find K 10
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 29.0 ms
+search done (include IO ) average time 35.0 ms
+Find K 10
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 83.0 ms
+search done (include IO ) average time 108.0 ms
+Find K 10
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 58.0 ms
+search done (include IO ) average time 63.0 ms
+Find K 10
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 27.0 ms
+Find K 10
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 26.0 ms
+Find K 10
+
+leaf node 2282
+target size 15
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 23.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 12
+Milliseconds      : 435
+Ticks             : 124352152
+TotalDays         : 0.000143926101851852
+TotalHours        : 0.00345422644444444
+TotalMinutes      : 0.207253586666667
+TotalSeconds      : 12.4352152
+TotalMilliseconds : 12435.2152
+
+
+
+2 " topK  done "
+4 knode start...
+A subdirectory or file 4 already exists.
+4 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 536870940
+318 length
+recover index file 7188 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 10
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 123.0 ms
+search done (include IO ) average time 127.0 ms
+Find K 10
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 27.0 ms
+Find K 10
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 63.0 ms
+search done (include IO ) average time 66.0 ms
+Find K 10
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 46.0 ms
+search done (include IO ) average time 50.0 ms
+Find K 10
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 23.0 ms
+search done (include IO ) average time 31.0 ms
+Find K 10
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 81.0 ms
+search done (include IO ) average time 88.0 ms
+Find K 10
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 35.0 ms
+Find K 10
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 46.0 ms
+search done (include IO ) average time 48.0 ms
+Find K 10
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 30.0 ms
+Find K 10
+
+leaf node 1925
+target size 15
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 23.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 9
+Milliseconds      : 755
+Ticks             : 97559097
+TotalDays         : 0.000112915621527778
+TotalHours        : 0.00270997491666667
+TotalMinutes      : 0.162598495
+TotalSeconds      : 9.7559097
+TotalMilliseconds : 9755.9097
+
+
+
+4 " topK  done "
+8 knode start...
+A subdirectory or file 8 already exists.
+8 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 268435484
+318 length
+recover index file 4206 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 10
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 145.0 ms
+search done (include IO ) average time 155.0 ms
+Find K 10
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 38.0 ms
+search done (include IO ) average time 44.0 ms
+Find K 10
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 31.0 ms
+search done (include IO ) average time 32.0 ms
+Find K 10
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 23.0 ms
+search done (include IO ) average time 25.0 ms
+Find K 10
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 36.0 ms
+search done (include IO ) average time 42.0 ms
+Find K 10
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 33.0 ms
+search done (include IO ) average time 37.0 ms
+Find K 10
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 19.0 ms
+search done (include IO ) average time 23.0 ms
+Find K 10
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 18.0 ms
+search done (include IO ) average time 19.0 ms
+Find K 10
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 22.0 ms
+Find K 10
+
+leaf node 1836
+target size 15
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 21.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 6
+Milliseconds      : 236
+Ticks             : 62368897
+TotalDays         : 7.21862233796296E-05
+TotalHours        : 0.00173246936111111
+TotalMinutes      : 0.103948161666667
+TotalSeconds      : 6.2368897
+TotalMilliseconds : 6236.8897
+
+
+
+8 " topK  done "
+16 knode start...
+A subdirectory or file 16 already exists.
+16 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 134217756
+318 length
+recover index file 3553 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 10
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 78.0 ms
+search done (include IO ) average time 84.0 ms
+Find K 10
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 49.0 ms
+search done (include IO ) average time 52.0 ms
+Find K 10
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 29.0 ms
+Find K 10
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 18.0 ms
+search done (include IO ) average time 21.0 ms
+Find K 10
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 19.0 ms
+search done (include IO ) average time 25.0 ms
+Find K 10
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 20.0 ms
+Find K 10
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 29.0 ms
+Find K 10
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 19.0 ms
+search done (include IO ) average time 22.0 ms
+Find K 10
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 19.0 ms
+Find K 10
+
+leaf node 918
+target size 15
+search done touch data (before IO ) average time 24.0 ms
+search done (include IO ) average time 26.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 4
+Milliseconds      : 824
+Ticks             : 48242864
+TotalDays         : 5.58366481481481E-05
+TotalHours        : 0.00134007955555556
+TotalMinutes      : 0.0804047733333333
+TotalSeconds      : 4.8242864
+TotalMilliseconds : 4824.2864
+
+
+
+16 " topK  done "
+32 knode start...
+A subdirectory or file 32 already exists.
+32 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 67108892
+318 length
+recover index file 3673 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 10
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 140.0 ms
+search done (include IO ) average time 152.0 ms
+Find K 10
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 14.0 ms
+search done (include IO ) average time 25.0 ms
+Find K 10
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 23.0 ms
+search done (include IO ) average time 29.0 ms
+Find K 10
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 12.0 ms
+Find K 10
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 15.0 ms
+search done (include IO ) average time 21.0 ms
+Find K 10
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 9.0 ms
+search done (include IO ) average time 15.0 ms
+Find K 10
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 10.0 ms
+search done (include IO ) average time 14.0 ms
+Find K 10
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 10.0 ms
+search done (include IO ) average time 11.0 ms
+Find K 10
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 13.0 ms
+Find K 10
+
+leaf node 459
+target size 15
+search done touch data (before IO ) average time 10.0 ms
+search done (include IO ) average time 11.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 5
+Milliseconds      : 395
+Ticks             : 53956756
+TotalDays         : 6.24499490740741E-05
+TotalHours        : 0.00149879877777778
+TotalMinutes      : 0.0899279266666667
+TotalSeconds      : 5.3956756
+TotalMilliseconds : 5395.6756
+
+
+
+32 " topK  done "
+64 knode start...
+A subdirectory or file 64 already exists.
+64 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 33554460
+318 length
+recover index file 3509 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 10
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 1854.0 ms
+search done (include IO ) average time 1862.0 ms
+Find K 10
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 14.0 ms
+search done (include IO ) average time 17.0 ms
+Find K 10
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 29.0 ms
+search done (include IO ) average time 33.0 ms
+Find K 10
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 19.0 ms
+search done (include IO ) average time 22.0 ms
+Find K 10
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 12.0 ms
+search done (include IO ) average time 18.0 ms
+Find K 10
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 9.0 ms
+search done (include IO ) average time 14.0 ms
+Find K 10
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 8.0 ms
+search done (include IO ) average time 13.0 ms
+Find K 10
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 8.0 ms
+search done (include IO ) average time 10.0 ms
+Find K 10
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 8.0 ms
+search done (include IO ) average time 10.0 ms
+Find K 10
+
+leaf node 336
+target size 15
+search done touch data (before IO ) average time 8.0 ms
+search done (include IO ) average time 9.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 7
+Milliseconds      : 68
+Ticks             : 70682225
+TotalDays         : 8.1808130787037E-05
+TotalHours        : 0.00196339513888889
+TotalMinutes      : 0.117803708333333
+TotalSeconds      : 7.0682225
+TotalMilliseconds : 7068.2225
+
+
+
+64 " topK  done "
+128 knode start...
+A subdirectory or file 128 already exists.
+128 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 16777244
+318 length
+recover index file 1894 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 10
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 74.0 ms
+search done (include IO ) average time 80.0 ms
+Find K 10
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 30.0 ms
+Find K 10
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 19.0 ms
+Find K 10
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 23.0 ms
+Find K 10
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 35.0 ms
+Find K 10
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 23.0 ms
+search done (include IO ) average time 31.0 ms
+Find K 10
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 18.0 ms
+search done (include IO ) average time 30.0 ms
+Find K 10
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 37.0 ms
+search done (include IO ) average time 39.0 ms
+Find K 10
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 18.0 ms
+search done (include IO ) average time 19.0 ms
+Find K 10
+
+leaf node 301
+target size 15
+search done touch data (before IO ) average time 14.0 ms
+search done (include IO ) average time 16.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 3
+Milliseconds      : 821
+Ticks             : 38217472
+TotalDays         : 4.42331851851852E-05
+TotalHours        : 0.00106159644444444
+TotalMinutes      : 0.0636957866666667
+TotalSeconds      : 3.8217472
+TotalMilliseconds : 3821.7472
+
+
+
+128 " topK  done "
+256 knode start...
+A subdirectory or file 256 already exists.
+256 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 8388636
+318 length
+recover index file 2273 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 10
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 96.0 ms
+search done (include IO ) average time 663.0 ms
+Find K 10
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 72.0 ms
+search done (include IO ) average time 75.0 ms
+Find K 10
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 39.0 ms
+Find K 10
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 32.0 ms
+search done (include IO ) average time 34.0 ms
+Find K 10
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 32.0 ms
+search done (include IO ) average time 37.0 ms
+Find K 10
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 39.0 ms
+search done (include IO ) average time 45.0 ms
+Find K 10
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 36.0 ms
+search done (include IO ) average time 45.0 ms
+Find K 10
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 22.0 ms
+Find K 10
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 22.0 ms
+Find K 10
+
+leaf node 292
+target size 15
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 22.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 4
+Milliseconds      : 598
+Ticks             : 45980668
+TotalDays         : 5.32183657407407E-05
+TotalHours        : 0.00127724077777778
+TotalMinutes      : 0.0766344466666667
+TotalSeconds      : 4.5980668
+TotalMilliseconds : 4598.0668
+
+
+
+256 " topK  done "
+512 knode start...
+A subdirectory or file 512 already exists.
+512 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 4194332
+318 length
+recover index file 2627 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 10
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 62.0 ms
+search done (include IO ) average time 70.0 ms
+Find K 10
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 29.0 ms
+Find K 10
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 23.0 ms
+search done (include IO ) average time 25.0 ms
+Find K 10
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 24.0 ms
+Find K 10
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 27.0 ms
+Find K 10
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 24.0 ms
+search done (include IO ) average time 28.0 ms
+Find K 10
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 22.0 ms
+Find K 10
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 23.0 ms
+Find K 10
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 18.0 ms
+search done (include IO ) average time 19.0 ms
+Find K 10
+
+leaf node 146
+target size 15
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 30.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 4
+Milliseconds      : 763
+Ticks             : 47632322
+TotalDays         : 5.51300023148148E-05
+TotalHours        : 0.00132312005555556
+TotalMinutes      : 0.0793872033333333
+TotalSeconds      : 4.7632322
+TotalMilliseconds : 4763.2322
+
+
+
+512 " topK  done "
+1024 knode start...
+A subdirectory or file 1024 already exists.
+1024 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2097180
+318 length
+recover index file 2350 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 10
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 744.0 ms
+search done (include IO ) average time 1650.0 ms
+Find K 10
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 95.0 ms
+search done (include IO ) average time 98.0 ms
+Find K 10
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 24.0 ms
+search done (include IO ) average time 27.0 ms
+Find K 10
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 29.0 ms
+Find K 10
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 24.0 ms
+Find K 10
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 23.0 ms
+Find K 10
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 14.0 ms
+search done (include IO ) average time 20.0 ms
+Find K 10
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 17.0 ms
+Find K 10
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 19.0 ms
+Find K 10
+
+leaf node 73
+target size 15
+search done touch data (before IO ) average time 18.0 ms
+search done (include IO ) average time 19.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 5
+Milliseconds      : 511
+Ticks             : 55113188
+TotalDays         : 6.3788412037037E-05
+TotalHours        : 0.00153092188888889
+TotalMinutes      : 0.0918553133333333
+TotalSeconds      : 5.5113188
+TotalMilliseconds : 5511.3188
+
+
+
+1024 " topK  done "
+10 top done
+100 top start...
+1 knode start...
+A subdirectory or file 1 already exists.
+1 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2091855228
+318 length
+recover index file 80206 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 100
+
+leaf node 5509
+target size 126
+search done touch data (before IO ) average time 128.0 ms
+search done (include IO ) average time 190.0 ms
+Find K 100
+
+leaf node 5509
+target size 126
+search done touch data (before IO ) average time 58.0 ms
+search done (include IO ) average time 69.0 ms
+Find K 100
+
+leaf node 5509
+target size 126
+search done touch data (before IO ) average time 65.0 ms
+search done (include IO ) average time 73.0 ms
+Find K 100
+
+leaf node 5509
+target size 126
+search done touch data (before IO ) average time 58.0 ms
+search done (include IO ) average time 67.0 ms
+Find K 100
+
+leaf node 5509
+target size 126
+search done touch data (before IO ) average time 61.0 ms
+search done (include IO ) average time 67.0 ms
+Find K 100
+
+leaf node 5509
+target size 126
+search done touch data (before IO ) average time 54.0 ms
+search done (include IO ) average time 60.0 ms
+Find K 100
+
+leaf node 5509
+target size 126
+search done touch data (before IO ) average time 47.0 ms
+search done (include IO ) average time 54.0 ms
+Find K 100
+
+leaf node 5509
+target size 126
+search done touch data (before IO ) average time 49.0 ms
+search done (include IO ) average time 55.0 ms
+Find K 100
+
+leaf node 5509
+target size 126
+search done touch data (before IO ) average time 45.0 ms
+search done (include IO ) average time 47.0 ms
+Find K 100
+
+leaf node 5509
+target size 126
+search done touch data (before IO ) average time 45.0 ms
+search done (include IO ) average time 47.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 1
+Seconds           : 23
+Milliseconds      : 97
+Ticks             : 830971025
+TotalDays         : 0.000961772019675926
+TotalHours        : 0.0230825284722222
+TotalMinutes      : 1.38495170833333
+TotalSeconds      : 83.0971025
+TotalMilliseconds : 83097.1025
+
+
+
+1 " topK  done "
+2 knode start...
+A subdirectory or file 2 already exists.
+2 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 1073741852
+318 length
+recover index file 10256 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 100
+
+leaf node 3187
+target size 126
+search done touch data (before IO ) average time 83.0 ms
+search done (include IO ) average time 123.0 ms
+Find K 100
+
+leaf node 3187
+target size 126
+search done touch data (before IO ) average time 41.0 ms
+search done (include IO ) average time 52.0 ms
+Find K 100
+
+leaf node 3187
+target size 126
+search done touch data (before IO ) average time 39.0 ms
+search done (include IO ) average time 47.0 ms
+Find K 100
+
+leaf node 3187
+target size 126
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 37.0 ms
+Find K 100
+
+leaf node 3187
+target size 126
+search done touch data (before IO ) average time 37.0 ms
+search done (include IO ) average time 44.0 ms
+Find K 100
+
+leaf node 3187
+target size 126
+search done touch data (before IO ) average time 39.0 ms
+search done (include IO ) average time 46.0 ms
+Find K 100
+
+leaf node 3187
+target size 126
+search done touch data (before IO ) average time 74.0 ms
+search done (include IO ) average time 81.0 ms
+Find K 100
+
+leaf node 3187
+target size 126
+search done touch data (before IO ) average time 35.0 ms
+search done (include IO ) average time 43.0 ms
+Find K 100
+
+leaf node 3187
+target size 126
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 30.0 ms
+Find K 100
+
+leaf node 3187
+target size 126
+search done touch data (before IO ) average time 32.0 ms
+search done (include IO ) average time 36.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 13
+Milliseconds      : 672
+Ticks             : 136723995
+TotalDays         : 0.000158245364583333
+TotalHours        : 0.00379788875
+TotalMinutes      : 0.227873325
+TotalSeconds      : 13.6723995
+TotalMilliseconds : 13672.3995
+
+
+
+2 " topK  done "
+4 knode start...
+A subdirectory or file 4 already exists.
+4 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 536870940
+318 length
+recover index file 6669 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 100
+
+leaf node 2460
+target size 126
+search done touch data (before IO ) average time 109.0 ms
+search done (include IO ) average time 162.0 ms
+Find K 100
+
+leaf node 2460
+target size 126
+search done touch data (before IO ) average time 35.0 ms
+search done (include IO ) average time 51.0 ms
+Find K 100
+
+leaf node 2460
+target size 126
+search done touch data (before IO ) average time 35.0 ms
+search done (include IO ) average time 51.0 ms
+Find K 100
+
+leaf node 2460
+target size 126
+search done touch data (before IO ) average time 36.0 ms
+search done (include IO ) average time 44.0 ms
+Find K 100
+
+leaf node 2460
+target size 126
+search done touch data (before IO ) average time 40.0 ms
+search done (include IO ) average time 47.0 ms
+Find K 100
+
+leaf node 2460
+target size 126
+search done touch data (before IO ) average time 54.0 ms
+search done (include IO ) average time 63.0 ms
+Find K 100
+
+leaf node 2460
+target size 126
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 35.0 ms
+Find K 100
+
+leaf node 2460
+target size 126
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 35.0 ms
+Find K 100
+
+leaf node 2460
+target size 126
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 30.0 ms
+Find K 100
+
+leaf node 2460
+target size 126
+search done touch data (before IO ) average time 40.0 ms
+search done (include IO ) average time 45.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 8
+Milliseconds      : 612
+Ticks             : 86127466
+TotalDays         : 9.96845671296296E-05
+TotalHours        : 0.00239242961111111
+TotalMinutes      : 0.143545776666667
+TotalSeconds      : 8.6127466
+TotalMilliseconds : 8612.7466
+
+
+
+4 " topK  done "
+8 knode start...
+A subdirectory or file 8 already exists.
+8 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 268435484
+318 length
+recover index file 4991 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 100
+
+leaf node 2228
+target size 126
+search done touch data (before IO ) average time 617.0 ms
+search done (include IO ) average time 662.0 ms
+Find K 100
+
+leaf node 2228
+target size 126
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 38.0 ms
+Find K 100
+
+leaf node 2228
+target size 126
+search done touch data (before IO ) average time 31.0 ms
+search done (include IO ) average time 38.0 ms
+Find K 100
+
+leaf node 2228
+target size 126
+search done touch data (before IO ) average time 57.0 ms
+search done (include IO ) average time 65.0 ms
+Find K 100
+
+leaf node 2228
+target size 126
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 34.0 ms
+Find K 100
+
+leaf node 2228
+target size 126
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 31.0 ms
+Find K 100
+
+leaf node 2228
+target size 126
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 29.0 ms
+Find K 100
+
+leaf node 2228
+target size 126
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 31.0 ms
+Find K 100
+
+leaf node 2228
+target size 126
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 24.0 ms
+Find K 100
+
+leaf node 2228
+target size 126
+search done touch data (before IO ) average time 23.0 ms
+search done (include IO ) average time 27.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 8
+Milliseconds      : 682
+Ticks             : 86824229
+TotalDays         : 0.000100491005787037
+TotalHours        : 0.00241178413888889
+TotalMinutes      : 0.144707048333333
+TotalSeconds      : 8.6824229
+TotalMilliseconds : 8682.4229
+
+
+
+8 " topK  done "
+16 knode start...
+A subdirectory or file 16 already exists.
+16 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 134217756
+318 length
+recover index file 3863 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 100
+
+leaf node 1114
+target size 126
+search done touch data (before IO ) average time 161.0 ms
+search done (include IO ) average time 203.0 ms
+Find K 100
+
+leaf node 1114
+target size 126
+search done touch data (before IO ) average time 19.0 ms
+search done (include IO ) average time 36.0 ms
+Find K 100
+
+leaf node 1114
+target size 126
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 32.0 ms
+Find K 100
+
+leaf node 1114
+target size 126
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 43.0 ms
+Find K 100
+
+leaf node 1114
+target size 126
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 22.0 ms
+Find K 100
+
+leaf node 1114
+target size 126
+search done touch data (before IO ) average time 18.0 ms
+search done (include IO ) average time 24.0 ms
+Find K 100
+
+leaf node 1114
+target size 126
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 25.0 ms
+Find K 100
+
+leaf node 1114
+target size 126
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 21.0 ms
+Find K 100
+
+leaf node 1114
+target size 126
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 21.0 ms
+Find K 100
+
+leaf node 1114
+target size 126
+search done touch data (before IO ) average time 15.0 ms
+search done (include IO ) average time 20.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 5
+Milliseconds      : 862
+Ticks             : 58621119
+TotalDays         : 6.78485173611111E-05
+TotalHours        : 0.00162836441666667
+TotalMinutes      : 0.097701865
+TotalSeconds      : 5.8621119
+TotalMilliseconds : 5862.1119
+
+
+
+16 " topK  done "
+32 knode start...
+A subdirectory or file 32 already exists.
+32 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 67108892
+318 length
+recover index file 3293 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 100
+
+leaf node 557
+target size 126
+search done touch data (before IO ) average time 3068.0 ms
+search done (include IO ) average time 3168.0 ms
+Find K 100
+
+leaf node 557
+target size 126
+search done touch data (before IO ) average time 71.0 ms
+search done (include IO ) average time 97.0 ms
+Find K 100
+
+leaf node 557
+target size 126
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 44.0 ms
+Find K 100
+
+leaf node 557
+target size 126
+search done touch data (before IO ) average time 73.0 ms
+search done (include IO ) average time 99.0 ms
+Find K 100
+
+leaf node 557
+target size 126
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 26.0 ms
+Find K 100
+
+leaf node 557
+target size 126
+search done touch data (before IO ) average time 14.0 ms
+search done (include IO ) average time 21.0 ms
+Find K 100
+
+leaf node 557
+target size 126
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 22.0 ms
+Find K 100
+
+leaf node 557
+target size 126
+search done touch data (before IO ) average time 11.0 ms
+search done (include IO ) average time 16.0 ms
+Find K 100
+
+leaf node 557
+target size 126
+search done touch data (before IO ) average time 10.0 ms
+search done (include IO ) average time 13.0 ms
+Find K 100
+
+leaf node 557
+target size 126
+search done touch data (before IO ) average time 12.0 ms
+search done (include IO ) average time 15.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 8
+Milliseconds      : 724
+Ticks             : 87241721
+TotalDays         : 0.00010097421412037
+TotalHours        : 0.00242338113888889
+TotalMinutes      : 0.145402868333333
+TotalSeconds      : 8.7241721
+TotalMilliseconds : 8724.1721
+
+
+
+32 " topK  done "
+64 knode start...
+A subdirectory or file 64 already exists.
+64 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 33554460
+318 length
+recover index file 3037 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 100
+
+leaf node 406
+target size 126
+search done touch data (before IO ) average time 98.0 ms
+search done (include IO ) average time 150.0 ms
+Find K 100
+
+leaf node 406
+target size 126
+search done touch data (before IO ) average time 41.0 ms
+search done (include IO ) average time 53.0 ms
+Find K 100
+
+leaf node 406
+target size 126
+search done touch data (before IO ) average time 13.0 ms
+search done (include IO ) average time 27.0 ms
+Find K 100
+
+leaf node 406
+target size 126
+search done touch data (before IO ) average time 56.0 ms
+search done (include IO ) average time 116.0 ms
+Find K 100
+
+leaf node 406
+target size 126
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 39.0 ms
+Find K 100
+
+leaf node 406
+target size 126
+search done touch data (before IO ) average time 24.0 ms
+search done (include IO ) average time 58.0 ms
+Find K 100
+
+leaf node 406
+target size 126
+search done touch data (before IO ) average time 18.0 ms
+search done (include IO ) average time 24.0 ms
+Find K 100
+
+leaf node 406
+target size 126
+search done touch data (before IO ) average time 14.0 ms
+search done (include IO ) average time 21.0 ms
+Find K 100
+
+leaf node 406
+target size 126
+search done touch data (before IO ) average time 14.0 ms
+search done (include IO ) average time 18.0 ms
+Find K 100
+
+leaf node 406
+target size 126
+search done touch data (before IO ) average time 13.0 ms
+search done (include IO ) average time 20.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 4
+Milliseconds      : 756
+Ticks             : 47560458
+TotalDays         : 5.50468263888889E-05
+TotalHours        : 0.00132112383333333
+TotalMinutes      : 0.07926743
+TotalSeconds      : 4.7560458
+TotalMilliseconds : 4756.0458
+
+
+
+64 " topK  done "
+128 knode start...
+A subdirectory or file 128 already exists.
+128 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 16777244
+318 length
+recover index file 2483 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 100
+
+leaf node 342
+target size 126
+search done touch data (before IO ) average time 135.0 ms
+search done (include IO ) average time 184.0 ms
+Find K 100
+
+leaf node 342
+target size 126
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 48.0 ms
+Find K 100
+
+leaf node 342
+target size 126
+search done touch data (before IO ) average time 32.0 ms
+search done (include IO ) average time 54.0 ms
+Find K 100
+
+leaf node 342
+target size 126
+search done touch data (before IO ) average time 38.0 ms
+search done (include IO ) average time 76.0 ms
+Find K 100
+
+leaf node 342
+target size 126
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 28.0 ms
+Find K 100
+
+leaf node 342
+target size 126
+search done touch data (before IO ) average time 17.0 ms
+search done (include IO ) average time 26.0 ms
+Find K 100
+
+leaf node 342
+target size 126
+search done touch data (before IO ) average time 13.0 ms
+search done (include IO ) average time 18.0 ms
+Find K 100
+
+leaf node 342
+target size 126
+search done touch data (before IO ) average time 15.0 ms
+search done (include IO ) average time 23.0 ms
+Find K 100
+
+leaf node 342
+target size 126
+search done touch data (before IO ) average time 12.0 ms
+search done (include IO ) average time 16.0 ms
+Find K 100
+
+leaf node 342
+target size 126
+search done touch data (before IO ) average time 13.0 ms
+search done (include IO ) average time 17.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 4
+Milliseconds      : 484
+Ticks             : 44847262
+TotalDays         : 5.19065532407407E-05
+TotalHours        : 0.00124575727777778
+TotalMinutes      : 0.0747454366666667
+TotalSeconds      : 4.4847262
+TotalMilliseconds : 4484.7262
+
+
+
+128 " topK  done "
+256 knode start...
+A subdirectory or file 256 already exists.
+256 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 8388636
+318 length
+recover index file 1277 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 100
+
+leaf node 324
+target size 126
+search done touch data (before IO ) average time 90.0 ms
+search done (include IO ) average time 128.0 ms
+Find K 100
+
+leaf node 324
+target size 126
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 39.0 ms
+Find K 100
+
+leaf node 324
+target size 126
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 38.0 ms
+Find K 100
+
+leaf node 324
+target size 126
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 31.0 ms
+Find K 100
+
+leaf node 324
+target size 126
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 28.0 ms
+Find K 100
+
+leaf node 324
+target size 126
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 34.0 ms
+Find K 100
+
+leaf node 324
+target size 126
+search done touch data (before IO ) average time 37.0 ms
+search done (include IO ) average time 56.0 ms
+Find K 100
+
+leaf node 324
+target size 126
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 27.0 ms
+Find K 100
+
+leaf node 324
+target size 126
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 27.0 ms
+Find K 100
+
+leaf node 324
+target size 126
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 26.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 2
+Milliseconds      : 598
+Ticks             : 25982783
+TotalDays         : 3.00726655092593E-05
+TotalHours        : 0.000721743972222222
+TotalMinutes      : 0.0433046383333333
+TotalSeconds      : 2.5982783
+TotalMilliseconds : 2598.2783
+
+
+
+256 " topK  done "
+512 knode start...
+A subdirectory or file 512 already exists.
+512 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 4194332
+318 length
+recover index file 3286 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 100
+
+leaf node 162
+target size 126
+search done touch data (before IO ) average time 1357.0 ms
+search done (include IO ) average time 1853.0 ms
+Find K 100
+
+leaf node 162
+target size 126
+search done touch data (before IO ) average time 37.0 ms
+search done (include IO ) average time 48.0 ms
+Find K 100
+
+leaf node 162
+target size 126
+search done touch data (before IO ) average time 29.0 ms
+search done (include IO ) average time 52.0 ms
+Find K 100
+
+leaf node 162
+target size 126
+search done touch data (before IO ) average time 29.0 ms
+search done (include IO ) average time 48.0 ms
+Find K 100
+
+leaf node 162
+target size 126
+search done touch data (before IO ) average time 36.0 ms
+search done (include IO ) average time 50.0 ms
+Find K 100
+
+leaf node 162
+target size 126
+search done touch data (before IO ) average time 24.0 ms
+search done (include IO ) average time 31.0 ms
+Find K 100
+
+leaf node 162
+target size 126
+search done touch data (before IO ) average time 23.0 ms
+search done (include IO ) average time 38.0 ms
+Find K 100
+
+leaf node 162
+target size 126
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 27.0 ms
+Find K 100
+
+leaf node 162
+target size 126
+search done touch data (before IO ) average time 24.0 ms
+search done (include IO ) average time 28.0 ms
+Find K 100
+
+leaf node 162
+target size 126
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 31.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 8
+Milliseconds      : 231
+Ticks             : 82311781
+TotalDays         : 9.52682650462963E-05
+TotalHours        : 0.00228643836111111
+TotalMinutes      : 0.137186301666667
+TotalSeconds      : 8.2311781
+TotalMilliseconds : 8231.1781
+
+
+
+512 " topK  done "
+1024 knode start...
+A subdirectory or file 1024 already exists.
+1024 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2097180
+318 length
+recover index file 1384 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 100
+
+leaf node 81
+target size 126
+search done touch data (before IO ) average time 72.0 ms
+search done (include IO ) average time 115.0 ms
+Find K 100
+
+leaf node 81
+target size 126
+search done touch data (before IO ) average time 42.0 ms
+search done (include IO ) average time 59.0 ms
+Find K 100
+
+leaf node 81
+target size 126
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 37.0 ms
+Find K 100
+
+leaf node 81
+target size 126
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 25.0 ms
+Find K 100
+
+leaf node 81
+target size 126
+search done touch data (before IO ) average time 15.0 ms
+search done (include IO ) average time 27.0 ms
+Find K 100
+
+leaf node 81
+target size 126
+search done touch data (before IO ) average time 15.0 ms
+search done (include IO ) average time 23.0 ms
+Find K 100
+
+leaf node 81
+target size 126
+search done touch data (before IO ) average time 15.0 ms
+search done (include IO ) average time 25.0 ms
+Find K 100
+
+leaf node 81
+target size 126
+search done touch data (before IO ) average time 14.0 ms
+search done (include IO ) average time 19.0 ms
+Find K 100
+
+leaf node 81
+target size 126
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 20.0 ms
+Find K 100
+
+leaf node 81
+target size 126
+search done touch data (before IO ) average time 16.0 ms
+search done (include IO ) average time 20.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 3
+Milliseconds      : 62
+Ticks             : 30629237
+TotalDays         : 3.5450505787037E-05
+TotalHours        : 0.000850812138888889
+TotalMinutes      : 0.0510487283333333
+TotalSeconds      : 3.0629237
+TotalMilliseconds : 3062.9237
+
+
+
+1024 " topK  done "
+100 top done
+500 top start...
+1 knode start...
+A subdirectory or file 1 already exists.
+1 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2091855228
+318 length
+recover index file 82426 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 500
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 241.0 ms
+search done (include IO ) average time 951.0 ms
+Find K 500
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 146.0 ms
+search done (include IO ) average time 172.0 ms
+Find K 500
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 129.0 ms
+search done (include IO ) average time 143.0 ms
+Find K 500
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 126.0 ms
+search done (include IO ) average time 137.0 ms
+Find K 500
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 122.0 ms
+search done (include IO ) average time 131.0 ms
+Find K 500
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 118.0 ms
+search done (include IO ) average time 129.0 ms
+Find K 500
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 118.0 ms
+search done (include IO ) average time 128.0 ms
+Find K 500
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 115.0 ms
+search done (include IO ) average time 128.0 ms
+Find K 500
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 125.0 ms
+search done (include IO ) average time 136.0 ms
+Find K 500
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 119.0 ms
+search done (include IO ) average time 128.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 1
+Seconds           : 26
+Milliseconds      : 857
+Ticks             : 868573400
+TotalDays         : 0.00100529328703704
+TotalHours        : 0.0241270388888889
+TotalMinutes      : 1.44762233333333
+TotalSeconds      : 86.85734
+TotalMilliseconds : 86857.34
+
+
+
+1 " topK  done "
+2 knode start...
+A subdirectory or file 2 already exists.
+2 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 1073741852
+318 length
+recover index file 10185 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 500
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 293.0 ms
+search done (include IO ) average time 443.0 ms
+Find K 500
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 136.0 ms
+search done (include IO ) average time 180.0 ms
+Find K 500
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 107.0 ms
+search done (include IO ) average time 124.0 ms
+Find K 500
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 106.0 ms
+search done (include IO ) average time 123.0 ms
+Find K 500
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 106.0 ms
+search done (include IO ) average time 118.0 ms
+Find K 500
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 111.0 ms
+search done (include IO ) average time 126.0 ms
+Find K 500
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 94.0 ms
+search done (include IO ) average time 107.0 ms
+Find K 500
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 102.0 ms
+search done (include IO ) average time 119.0 ms
+Find K 500
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 89.0 ms
+search done (include IO ) average time 107.0 ms
+Find K 500
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 93.0 ms
+search done (include IO ) average time 108.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 13
+Milliseconds      : 172
+Ticks             : 131728284
+TotalDays         : 0.000152463291666667
+TotalHours        : 0.003659119
+TotalMinutes      : 0.21954714
+TotalSeconds      : 13.1728284
+TotalMilliseconds : 13172.8284
+
+
+
+2 " topK  done "
+4 knode start...
+A subdirectory or file 4 already exists.
+4 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 536870940
+318 length
+recover index file 7788 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 500
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 146.0 ms
+search done (include IO ) average time 301.0 ms
+Find K 500
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 72.0 ms
+search done (include IO ) average time 100.0 ms
+Find K 500
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 74.0 ms
+search done (include IO ) average time 92.0 ms
+Find K 500
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 153.0 ms
+search done (include IO ) average time 167.0 ms
+Find K 500
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 58.0 ms
+search done (include IO ) average time 69.0 ms
+Find K 500
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 61.0 ms
+search done (include IO ) average time 80.0 ms
+Find K 500
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 60.0 ms
+search done (include IO ) average time 75.0 ms
+Find K 500
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 56.0 ms
+search done (include IO ) average time 67.0 ms
+Find K 500
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 56.0 ms
+search done (include IO ) average time 72.0 ms
+Find K 500
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 58.0 ms
+search done (include IO ) average time 71.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 10
+Milliseconds      : 987
+Ticks             : 109871552
+TotalDays         : 0.000127166148148148
+TotalHours        : 0.00305198755555556
+TotalMinutes      : 0.183119253333333
+TotalSeconds      : 10.9871552
+TotalMilliseconds : 10987.1552
+
+
+
+4 " topK  done "
+8 knode start...
+A subdirectory or file 8 already exists.
+8 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 268435484
+318 length
+recover index file 4814 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 500
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 155.0 ms
+search done (include IO ) average time 269.0 ms
+Find K 500
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 107.0 ms
+search done (include IO ) average time 138.0 ms
+Find K 500
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 58.0 ms
+search done (include IO ) average time 81.0 ms
+Find K 500
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 60.0 ms
+search done (include IO ) average time 74.0 ms
+Find K 500
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 61.0 ms
+search done (include IO ) average time 76.0 ms
+Find K 500
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 45.0 ms
+search done (include IO ) average time 58.0 ms
+Find K 500
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 43.0 ms
+search done (include IO ) average time 57.0 ms
+Find K 500
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 45.0 ms
+search done (include IO ) average time 56.0 ms
+Find K 500
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 45.0 ms
+search done (include IO ) average time 58.0 ms
+Find K 500
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 55.0 ms
+search done (include IO ) average time 67.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 8
+Milliseconds      : 148
+Ticks             : 81487528
+TotalDays         : 9.43142685185185E-05
+TotalHours        : 0.00226354244444444
+TotalMinutes      : 0.135812546666667
+TotalSeconds      : 8.1487528
+TotalMilliseconds : 8148.7528
+
+
+
+8 " topK  done "
+16 knode start...
+A subdirectory or file 16 already exists.
+16 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 134217756
+318 length
+recover index file 2994 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 500
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 280.0 ms
+search done (include IO ) average time 1102.0 ms
+Find K 500
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 113.0 ms
+search done (include IO ) average time 142.0 ms
+Find K 500
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 32.0 ms
+search done (include IO ) average time 53.0 ms
+Find K 500
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 35.0 ms
+search done (include IO ) average time 60.0 ms
+Find K 500
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 38.0 ms
+search done (include IO ) average time 56.0 ms
+Find K 500
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 43.0 ms
+search done (include IO ) average time 78.0 ms
+Find K 500
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 35.0 ms
+search done (include IO ) average time 64.0 ms
+Find K 500
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 33.0 ms
+search done (include IO ) average time 57.0 ms
+Find K 500
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 40.0 ms
+search done (include IO ) average time 70.0 ms
+Find K 500
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 57.0 ms
+search done (include IO ) average time 270.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 6
+Milliseconds      : 146
+Ticks             : 61465292
+TotalDays         : 7.11403842592593E-05
+TotalHours        : 0.00170736922222222
+TotalMinutes      : 0.102442153333333
+TotalSeconds      : 6.1465292
+TotalMilliseconds : 6146.5292
+
+
+
+16 " topK  done "
+32 knode start...
+A subdirectory or file 32 already exists.
+32 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 67108892
+318 length
+recover index file 2222 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 500
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 398.0 ms
+search done (include IO ) average time 532.0 ms
+Find K 500
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 36.0 ms
+search done (include IO ) average time 75.0 ms
+Find K 500
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 23.0 ms
+search done (include IO ) average time 50.0 ms
+Find K 500
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 23.0 ms
+search done (include IO ) average time 43.0 ms
+Find K 500
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 43.0 ms
+Find K 500
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 46.0 ms
+Find K 500
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 23.0 ms
+search done (include IO ) average time 49.0 ms
+Find K 500
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 46.0 ms
+Find K 500
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 268.0 ms
+Find K 500
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 69.0 ms
+search done (include IO ) average time 90.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 4
+Milliseconds      : 534
+Ticks             : 45346578
+TotalDays         : 5.24844652777778E-05
+TotalHours        : 0.00125962716666667
+TotalMinutes      : 0.07557763
+TotalSeconds      : 4.5346578
+TotalMilliseconds : 4534.6578
+
+
+
+32 " topK  done "
+64 knode start...
+A subdirectory or file 64 already exists.
+64 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 33554460
+318 length
+recover index file 2140 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 500
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 408.0 ms
+search done (include IO ) average time 1391.0 ms
+Find K 500
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 35.0 ms
+search done (include IO ) average time 81.0 ms
+Find K 500
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 50.0 ms
+Find K 500
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 55.0 ms
+Find K 500
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 54.0 ms
+search done (include IO ) average time 87.0 ms
+Find K 500
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 38.0 ms
+search done (include IO ) average time 73.0 ms
+Find K 500
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 40.0 ms
+search done (include IO ) average time 297.0 ms
+Find K 500
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 51.0 ms
+search done (include IO ) average time 82.0 ms
+Find K 500
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 31.0 ms
+search done (include IO ) average time 48.0 ms
+Find K 500
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 35.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 7
+Milliseconds      : 839
+Ticks             : 78392451
+TotalDays         : 9.07320034722222E-05
+TotalHours        : 0.00217756808333333
+TotalMinutes      : 0.130654085
+TotalSeconds      : 7.8392451
+TotalMilliseconds : 7839.2451
+
+
+
+64 " topK  done "
+128 knode start...
+A subdirectory or file 128 already exists.
+128 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 16777244
+318 length
+recover index file 3067 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 500
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 1276.0 ms
+search done (include IO ) average time 2009.0 ms
+Find K 500
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 52.0 ms
+search done (include IO ) average time 96.0 ms
+Find K 500
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 56.0 ms
+Find K 500
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 31.0 ms
+search done (include IO ) average time 66.0 ms
+Find K 500
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 42.0 ms
+Find K 500
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 47.0 ms
+Find K 500
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 48.0 ms
+Find K 500
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 33.0 ms
+search done (include IO ) average time 52.0 ms
+Find K 500
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 44.0 ms
+Find K 500
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 44.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 8
+Milliseconds      : 488
+Ticks             : 84889671
+TotalDays         : 9.82519340277778E-05
+TotalHours        : 0.00235804641666667
+TotalMinutes      : 0.141482785
+TotalSeconds      : 8.4889671
+TotalMilliseconds : 8488.9671
+
+
+
+128 " topK  done "
+256 knode start...
+A subdirectory or file 256 already exists.
+256 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 8388636
+318 length
+recover index file 3070 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 500
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 795.0 ms
+search done (include IO ) average time 927.0 ms
+Find K 500
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 46.0 ms
+search done (include IO ) average time 83.0 ms
+Find K 500
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 37.0 ms
+search done (include IO ) average time 64.0 ms
+Find K 500
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 36.0 ms
+search done (include IO ) average time 52.0 ms
+Find K 500
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 50.0 ms
+Find K 500
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 31.0 ms
+search done (include IO ) average time 49.0 ms
+Find K 500
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 32.0 ms
+search done (include IO ) average time 52.0 ms
+Find K 500
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 33.0 ms
+search done (include IO ) average time 50.0 ms
+Find K 500
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 83.0 ms
+Find K 500
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 48.0 ms
+search done (include IO ) average time 76.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 6
+Milliseconds      : 80
+Ticks             : 60808621
+TotalDays         : 7.03803483796296E-05
+TotalHours        : 0.00168912836111111
+TotalMinutes      : 0.101347701666667
+TotalSeconds      : 6.0808621
+TotalMilliseconds : 6080.8621
+
+
+
+256 " topK  done "
+512 knode start...
+A subdirectory or file 512 already exists.
+512 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 4194332
+318 length
+recover index file 2333 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 500
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 198.0 ms
+search done (include IO ) average time 755.0 ms
+Find K 500
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 97.0 ms
+search done (include IO ) average time 123.0 ms
+Find K 500
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 31.0 ms
+search done (include IO ) average time 55.0 ms
+Find K 500
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 54.0 ms
+search done (include IO ) average time 80.0 ms
+Find K 500
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 73.0 ms
+search done (include IO ) average time 101.0 ms
+Find K 500
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 45.0 ms
+search done (include IO ) average time 70.0 ms
+Find K 500
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 40.0 ms
+search done (include IO ) average time 63.0 ms
+Find K 500
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 34.0 ms
+search done (include IO ) average time 57.0 ms
+Find K 500
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 34.0 ms
+search done (include IO ) average time 59.0 ms
+Find K 500
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 35.0 ms
+search done (include IO ) average time 59.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 5
+Milliseconds      : 266
+Ticks             : 52669401
+TotalDays         : 6.09599548611111E-05
+TotalHours        : 0.00146303891666667
+TotalMinutes      : 0.087782335
+TotalSeconds      : 5.2669401
+TotalMilliseconds : 5266.9401
+
+
+
+512 " topK  done "
+1024 knode start...
+A subdirectory or file 1024 already exists.
+1024 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2097180
+318 length
+recover index file 2863 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 500
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 1047.0 ms
+search done (include IO ) average time 1164.0 ms
+Find K 500
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 39.0 ms
+search done (include IO ) average time 81.0 ms
+Find K 500
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 34.0 ms
+search done (include IO ) average time 58.0 ms
+Find K 500
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 44.0 ms
+search done (include IO ) average time 58.0 ms
+Find K 500
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 45.0 ms
+Find K 500
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 226.0 ms
+Find K 500
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 108.0 ms
+search done (include IO ) average time 132.0 ms
+Find K 500
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 29.0 ms
+search done (include IO ) average time 54.0 ms
+Find K 500
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 31.0 ms
+search done (include IO ) average time 51.0 ms
+Find K 500
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 31.0 ms
+search done (include IO ) average time 52.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 5
+Milliseconds      : 882
+Ticks             : 58823828
+TotalDays         : 6.80831342592593E-05
+TotalHours        : 0.00163399522222222
+TotalMinutes      : 0.0980397133333333
+TotalSeconds      : 5.8823828
+TotalMilliseconds : 5882.3828
+
+
+
+1024 " topK  done "
+500 top done
+1000 top start...
+1 knode start...
+A subdirectory or file 1 already exists.
+1 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2091855228
+318 length
+recover index file 79502 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1000
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 1459.0 ms
+search done (include IO ) average time 1700.0 ms
+Find K 1000
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 222.0 ms
+search done (include IO ) average time 258.0 ms
+Find K 1000
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 163.0 ms
+search done (include IO ) average time 204.0 ms
+Find K 1000
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 161.0 ms
+search done (include IO ) average time 200.0 ms
+Find K 1000
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 198.0 ms
+search done (include IO ) average time 230.0 ms
+Find K 1000
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 168.0 ms
+search done (include IO ) average time 207.0 ms
+Find K 1000
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 165.0 ms
+search done (include IO ) average time 190.0 ms
+Find K 1000
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 166.0 ms
+search done (include IO ) average time 194.0 ms
+Find K 1000
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 128.0 ms
+search done (include IO ) average time 154.0 ms
+Find K 1000
+
+leaf node 15223
+target size 1447
+search done touch data (before IO ) average time 138.0 ms
+search done (include IO ) average time 155.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 1
+Seconds           : 25
+Milliseconds      : 404
+Ticks             : 854047449
+TotalDays         : 0.00098848084375
+TotalHours        : 0.02372354025
+TotalMinutes      : 1.423412415
+TotalSeconds      : 85.4047449
+TotalMilliseconds : 85404.7449
+
+
+
+1 " topK  done "
+2 knode start...
+A subdirectory or file 2 already exists.
+2 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 1073741852
+318 length
+recover index file 9864 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1000
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 282.0 ms
+search done (include IO ) average time 1024.0 ms
+Find K 1000
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 120.0 ms
+search done (include IO ) average time 155.0 ms
+Find K 1000
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 83.0 ms
+search done (include IO ) average time 109.0 ms
+Find K 1000
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 91.0 ms
+search done (include IO ) average time 118.0 ms
+Find K 1000
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 102.0 ms
+search done (include IO ) average time 125.0 ms
+Find K 1000
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 80.0 ms
+search done (include IO ) average time 109.0 ms
+Find K 1000
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 90.0 ms
+search done (include IO ) average time 121.0 ms
+Find K 1000
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 82.0 ms
+search done (include IO ) average time 109.0 ms
+Find K 1000
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 84.0 ms
+search done (include IO ) average time 109.0 ms
+Find K 1000
+
+leaf node 9703
+target size 1447
+search done touch data (before IO ) average time 87.0 ms
+search done (include IO ) average time 107.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 13
+Milliseconds      : 738
+Ticks             : 137382436
+TotalDays         : 0.000159007449074074
+TotalHours        : 0.00381617877777778
+TotalMinutes      : 0.228970726666667
+TotalSeconds      : 13.7382436
+TotalMilliseconds : 13738.2436
+
+
+
+2 " topK  done "
+4 knode start...
+A subdirectory or file 4 already exists.
+4 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 536870940
+318 length
+recover index file 7354 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1000
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 511.0 ms
+search done (include IO ) average time 1442.0 ms
+Find K 1000
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 96.0 ms
+search done (include IO ) average time 131.0 ms
+Find K 1000
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 56.0 ms
+search done (include IO ) average time 79.0 ms
+Find K 1000
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 53.0 ms
+search done (include IO ) average time 78.0 ms
+Find K 1000
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 50.0 ms
+search done (include IO ) average time 75.0 ms
+Find K 1000
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 52.0 ms
+search done (include IO ) average time 80.0 ms
+Find K 1000
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 52.0 ms
+search done (include IO ) average time 82.0 ms
+Find K 1000
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 51.0 ms
+search done (include IO ) average time 75.0 ms
+Find K 1000
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 52.0 ms
+search done (include IO ) average time 74.0 ms
+Find K 1000
+
+leaf node 5867
+target size 1447
+search done touch data (before IO ) average time 52.0 ms
+search done (include IO ) average time 74.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 11
+Milliseconds      : 201
+Ticks             : 112011774
+TotalDays         : 0.000129643256944444
+TotalHours        : 0.00311143816666667
+TotalMinutes      : 0.18668629
+TotalSeconds      : 11.2011774
+TotalMilliseconds : 11201.1774
+
+
+
+4 " topK  done "
+8 knode start...
+A subdirectory or file 8 already exists.
+8 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 268435484
+318 length
+recover index file 5922 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1000
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 2812.0 ms
+search done (include IO ) average time 8169.0 ms
+Find K 1000
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 75.0 ms
+search done (include IO ) average time 115.0 ms
+Find K 1000
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 50.0 ms
+search done (include IO ) average time 83.0 ms
+Find K 1000
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 50.0 ms
+search done (include IO ) average time 76.0 ms
+Find K 1000
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 46.0 ms
+search done (include IO ) average time 71.0 ms
+Find K 1000
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 51.0 ms
+search done (include IO ) average time 82.0 ms
+Find K 1000
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 54.0 ms
+search done (include IO ) average time 84.0 ms
+Find K 1000
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 44.0 ms
+search done (include IO ) average time 70.0 ms
+Find K 1000
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 47.0 ms
+search done (include IO ) average time 69.0 ms
+Find K 1000
+
+leaf node 5172
+target size 1447
+search done touch data (before IO ) average time 50.0 ms
+search done (include IO ) average time 69.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 15
+Milliseconds      : 844
+Ticks             : 158447942
+TotalDays         : 0.000183388821759259
+TotalHours        : 0.00440133172222222
+TotalMinutes      : 0.264079903333333
+TotalSeconds      : 15.8447942
+TotalMilliseconds : 15844.7942
+
+
+
+8 " topK  done "
+16 knode start...
+A subdirectory or file 16 already exists.
+16 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 134217756
+318 length
+recover index file 4799 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1000
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 1802.0 ms
+search done (include IO ) average time 2577.0 ms
+Find K 1000
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 41.0 ms
+search done (include IO ) average time 92.0 ms
+Find K 1000
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 35.0 ms
+search done (include IO ) average time 72.0 ms
+Find K 1000
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 65.0 ms
+Find K 1000
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 59.0 ms
+Find K 1000
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 68.0 ms
+Find K 1000
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 29.0 ms
+search done (include IO ) average time 63.0 ms
+Find K 1000
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 56.0 ms
+Find K 1000
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 29.0 ms
+search done (include IO ) average time 58.0 ms
+Find K 1000
+
+leaf node 2586
+target size 1447
+search done touch data (before IO ) average time 29.0 ms
+search done (include IO ) average time 54.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 9
+Milliseconds      : 516
+Ticks             : 95167829
+TotalDays         : 0.000110147950231481
+TotalHours        : 0.00264355080555556
+TotalMinutes      : 0.158613048333333
+TotalSeconds      : 9.5167829
+TotalMilliseconds : 9516.7829
+
+
+
+16 " topK  done "
+32 knode start...
+A subdirectory or file 32 already exists.
+32 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 67108892
+318 length
+recover index file 3169 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1000
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 583.0 ms
+search done (include IO ) average time 825.0 ms
+Find K 1000
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 45.0 ms
+search done (include IO ) average time 141.0 ms
+Find K 1000
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 71.0 ms
+Find K 1000
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 34.0 ms
+search done (include IO ) average time 77.0 ms
+Find K 1000
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 67.0 ms
+Find K 1000
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 92.0 ms
+Find K 1000
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 75.0 ms
+Find K 1000
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 74.0 ms
+Find K 1000
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 70.0 ms
+Find K 1000
+
+leaf node 1293
+target size 1447
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 61.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 5
+Milliseconds      : 926
+Ticks             : 59260301
+TotalDays         : 6.85883113425926E-05
+TotalHours        : 0.00164611947222222
+TotalMinutes      : 0.0987671683333333
+TotalSeconds      : 5.9260301
+TotalMilliseconds : 5926.0301
+
+
+
+32 " topK  done "
+64 knode start...
+A subdirectory or file 64 already exists.
+64 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 33554460
+318 length
+recover index file 2030 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1000
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 166.0 ms
+search done (include IO ) average time 1021.0 ms
+Find K 1000
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 80.0 ms
+Find K 1000
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 31.0 ms
+search done (include IO ) average time 69.0 ms
+Find K 1000
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 24.0 ms
+search done (include IO ) average time 63.0 ms
+Find K 1000
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 72.0 ms
+Find K 1000
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 24.0 ms
+search done (include IO ) average time 67.0 ms
+Find K 1000
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 63.0 ms
+Find K 1000
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 20.0 ms
+search done (include IO ) average time 58.0 ms
+Find K 1000
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 56.0 ms
+Find K 1000
+
+leaf node 1048
+target size 1447
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 56.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 5
+Milliseconds      : 103
+Ticks             : 51035191
+TotalDays         : 5.90685081018519E-05
+TotalHours        : 0.00141764419444444
+TotalMinutes      : 0.0850586516666667
+TotalSeconds      : 5.1035191
+TotalMilliseconds : 5103.5191
+
+
+
+64 " topK  done "
+128 knode start...
+A subdirectory or file 128 already exists.
+128 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 16777244
+318 length
+recover index file 1389 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1000
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 135.0 ms
+search done (include IO ) average time 343.0 ms
+Find K 1000
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 33.0 ms
+search done (include IO ) average time 84.0 ms
+Find K 1000
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 70.0 ms
+Find K 1000
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 69.0 ms
+Find K 1000
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 68.0 ms
+Find K 1000
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 67.0 ms
+Find K 1000
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 62.0 ms
+Find K 1000
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 23.0 ms
+search done (include IO ) average time 61.0 ms
+Find K 1000
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 21.0 ms
+search done (include IO ) average time 51.0 ms
+Find K 1000
+
+leaf node 672
+target size 1447
+search done touch data (before IO ) average time 22.0 ms
+search done (include IO ) average time 54.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 2
+Milliseconds      : 938
+Ticks             : 29387638
+TotalDays         : 3.40134699074074E-05
+TotalHours        : 0.000816323277777778
+TotalMinutes      : 0.0489793966666667
+TotalSeconds      : 2.9387638
+TotalMilliseconds : 2938.7638
+
+
+
+128 " topK  done "
+256 knode start...
+A subdirectory or file 256 already exists.
+256 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 8388636
+318 length
+recover index file 2772 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1000
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 1119.0 ms
+search done (include IO ) average time 2102.0 ms
+Find K 1000
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 40.0 ms
+search done (include IO ) average time 328.0 ms
+Find K 1000
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 53.0 ms
+search done (include IO ) average time 107.0 ms
+Find K 1000
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 41.0 ms
+search done (include IO ) average time 81.0 ms
+Find K 1000
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 56.0 ms
+Find K 1000
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 64.0 ms
+Find K 1000
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 31.0 ms
+search done (include IO ) average time 69.0 ms
+Find K 1000
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 32.0 ms
+search done (include IO ) average time 63.0 ms
+Find K 1000
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 29.0 ms
+search done (include IO ) average time 56.0 ms
+Find K 1000
+
+leaf node 616
+target size 1447
+search done touch data (before IO ) average time 32.0 ms
+search done (include IO ) average time 63.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 7
+Milliseconds      : 165
+Ticks             : 71650225
+TotalDays         : 8.29285011574074E-05
+TotalHours        : 0.00199028402777778
+TotalMinutes      : 0.119417041666667
+TotalSeconds      : 7.1650225
+TotalMilliseconds : 7165.0225
+
+
+
+256 " topK  done "
+512 knode start...
+A subdirectory or file 512 already exists.
+512 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 4194332
+318 length
+recover index file 1979 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1000
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 181.0 ms
+search done (include IO ) average time 1350.0 ms
+Find K 1000
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 33.0 ms
+search done (include IO ) average time 76.0 ms
+Find K 1000
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 61.0 ms
+Find K 1000
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 25.0 ms
+search done (include IO ) average time 57.0 ms
+Find K 1000
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 61.0 ms
+Find K 1000
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 62.0 ms
+Find K 1000
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 24.0 ms
+search done (include IO ) average time 60.0 ms
+Find K 1000
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 26.0 ms
+search done (include IO ) average time 61.0 ms
+Find K 1000
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 59.0 ms
+Find K 1000
+
+leaf node 308
+target size 1447
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 54.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 5
+Milliseconds      : 955
+Ticks             : 59556647
+TotalDays         : 6.89313043981481E-05
+TotalHours        : 0.00165435130555556
+TotalMinutes      : 0.0992610783333333
+TotalSeconds      : 5.9556647
+TotalMilliseconds : 5955.6647
+
+
+
+512 " topK  done "
+1024 knode start...
+A subdirectory or file 1024 already exists.
+1024 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2097180
+318 length
+recover index file 3818 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 1000
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 2802.0 ms
+search done (include IO ) average time 7342.0 ms
+Find K 1000
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 33.0 ms
+search done (include IO ) average time 83.0 ms
+Find K 1000
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 65.0 ms
+Find K 1000
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 35.0 ms
+search done (include IO ) average time 174.0 ms
+Find K 1000
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 110.0 ms
+search done (include IO ) average time 162.0 ms
+Find K 1000
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 29.0 ms
+search done (include IO ) average time 69.0 ms
+Find K 1000
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 28.0 ms
+search done (include IO ) average time 70.0 ms
+Find K 1000
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 61.0 ms
+Find K 1000
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 27.0 ms
+search done (include IO ) average time 61.0 ms
+Find K 1000
+
+leaf node 154
+target size 1447
+search done touch data (before IO ) average time 30.0 ms
+search done (include IO ) average time 62.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 13
+Milliseconds      : 669
+Ticks             : 136696208
+TotalDays         : 0.000158213203703704
+TotalHours        : 0.00379711688888889
+TotalMinutes      : 0.227827013333333
+TotalSeconds      : 13.6696208
+TotalMilliseconds : 13669.6208
+
+
+
+1024 " topK  done "
+1000 top done
+5000 top start...
+1 knode start...
+A subdirectory or file 1 already exists.
+1 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2091855228
+318 length
+recover index file 80335 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 5000
+
+leaf node 25381
+target size 7292
+search done touch data (before IO ) average time 843.0 ms
+search done (include IO ) average time 2092.0 ms
+Find K 5000
+
+leaf node 25381
+target size 7292
+search done touch data (before IO ) average time 341.0 ms
+search done (include IO ) average time 456.0 ms
+Find K 5000
+
+leaf node 25381
+target size 7292
+search done touch data (before IO ) average time 350.0 ms
+search done (include IO ) average time 15603.0 ms
+Find K 5000
+
+leaf node 25381
+target size 7292
+search done touch data (before IO ) average time 382.0 ms
+search done (include IO ) average time 482.0 ms
+Find K 5000
+
+leaf node 25381
+target size 7292
+search done touch data (before IO ) average time 387.0 ms
+search done (include IO ) average time 484.0 ms
+Find K 5000
+
+leaf node 25381
+target size 7292
+search done touch data (before IO ) average time 381.0 ms
+search done (include IO ) average time 467.0 ms
+Find K 5000
+
+leaf node 25381
+target size 7292
+search done touch data (before IO ) average time 390.0 ms
+search done (include IO ) average time 472.0 ms
+Find K 5000
+
+leaf node 25381
+target size 7292
+search done touch data (before IO ) average time 369.0 ms
+search done (include IO ) average time 451.0 ms
+Find K 5000
+
+leaf node 25381
+target size 7292
+search done touch data (before IO ) average time 369.0 ms
+search done (include IO ) average time 442.0 ms
+Find K 5000
+
+leaf node 25381
+target size 7292
+search done touch data (before IO ) average time 369.0 ms
+search done (include IO ) average time 451.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 1
+Seconds           : 45
+Milliseconds      : 741
+Ticks             : 1057414672
+TotalDays         : 0.00122385957407407
+TotalHours        : 0.0293726297777778
+TotalMinutes      : 1.76235778666667
+TotalSeconds      : 105.7414672
+TotalMilliseconds : 105741.4672
+
+
+
+1 " topK  done "
+2 knode start...
+A subdirectory or file 2 already exists.
+2 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 1073741852
+318 length
+recover index file 9798 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 5000
+
+leaf node 15594
+target size 7292
+search done touch data (before IO ) average time 646.0 ms
+search done (include IO ) average time 1984.0 ms
+Find K 5000
+
+leaf node 15594
+target size 7292
+search done touch data (before IO ) average time 234.0 ms
+search done (include IO ) average time 387.0 ms
+Find K 5000
+
+leaf node 15594
+target size 7292
+search done touch data (before IO ) average time 223.0 ms
+search done (include IO ) average time 359.0 ms
+Find K 5000
+
+leaf node 15594
+target size 7292
+search done touch data (before IO ) average time 290.0 ms
+search done (include IO ) average time 431.0 ms
+Find K 5000
+
+leaf node 15594
+target size 7292
+search done touch data (before IO ) average time 271.0 ms
+search done (include IO ) average time 406.0 ms
+Find K 5000
+
+leaf node 15594
+target size 7292
+search done touch data (before IO ) average time 263.0 ms
+search done (include IO ) average time 1259.0 ms
+Find K 5000
+
+leaf node 15594
+target size 7292
+search done touch data (before IO ) average time 254.0 ms
+search done (include IO ) average time 382.0 ms
+Find K 5000
+
+leaf node 15594
+target size 7292
+search done touch data (before IO ) average time 246.0 ms
+search done (include IO ) average time 364.0 ms
+Find K 5000
+
+leaf node 15594
+target size 7292
+search done touch data (before IO ) average time 247.0 ms
+search done (include IO ) average time 361.0 ms
+Find K 5000
+
+leaf node 15594
+target size 7292
+search done touch data (before IO ) average time 264.0 ms
+search done (include IO ) average time 420.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 18
+Milliseconds      : 38
+Ticks             : 180386101
+TotalDays         : 0.000208780209490741
+TotalHours        : 0.00501072502777778
+TotalMinutes      : 0.300643501666667
+TotalSeconds      : 18.0386101
+TotalMilliseconds : 18038.6101
+
+
+
+2 " topK  done "
+4 knode start...
+A subdirectory or file 4 already exists.
+4 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 536870940
+318 length
+recover index file 8958 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 5000
+
+leaf node 9238
+target size 7292
+search done touch data (before IO ) average time 5007.0 ms
+search done (include IO ) average time 10655.0 ms
+Find K 5000
+
+leaf node 9238
+target size 7292
+search done touch data (before IO ) average time 147.0 ms
+search done (include IO ) average time 284.0 ms
+Find K 5000
+
+leaf node 9238
+target size 7292
+search done touch data (before IO ) average time 148.0 ms
+search done (include IO ) average time 262.0 ms
+Find K 5000
+
+leaf node 9238
+target size 7292
+search done touch data (before IO ) average time 168.0 ms
+search done (include IO ) average time 311.0 ms
+Find K 5000
+
+leaf node 9238
+target size 7292
+search done touch data (before IO ) average time 164.0 ms
+search done (include IO ) average time 282.0 ms
+Find K 5000
+
+leaf node 9238
+target size 7292
+search done touch data (before IO ) average time 166.0 ms
+search done (include IO ) average time 282.0 ms
+Find K 5000
+
+leaf node 9238
+target size 7292
+search done touch data (before IO ) average time 161.0 ms
+search done (include IO ) average time 294.0 ms
+Find K 5000
+
+leaf node 9238
+target size 7292
+search done touch data (before IO ) average time 155.0 ms
+search done (include IO ) average time 295.0 ms
+Find K 5000
+
+leaf node 9238
+target size 7292
+search done touch data (before IO ) average time 158.0 ms
+search done (include IO ) average time 271.0 ms
+Find K 5000
+
+leaf node 9238
+target size 7292
+search done touch data (before IO ) average time 159.0 ms
+search done (include IO ) average time 298.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 24
+Milliseconds      : 41
+Ticks             : 240410974
+TotalDays         : 0.00027825344212963
+TotalHours        : 0.00667808261111111
+TotalMinutes      : 0.400684956666667
+TotalSeconds      : 24.0410974
+TotalMilliseconds : 24041.0974
+
+
+
+4 " topK  done "
+8 knode start...
+A subdirectory or file 8 already exists.
+8 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 268435484
+318 length
+recover index file 4068 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 5000
+
+leaf node 6992
+target size 7292
+search done touch data (before IO ) average time 1330.0 ms
+search done (include IO ) average time 3603.0 ms
+Find K 5000
+
+leaf node 6992
+target size 7292
+search done touch data (before IO ) average time 106.0 ms
+search done (include IO ) average time 241.0 ms
+Find K 5000
+
+leaf node 6992
+target size 7292
+search done touch data (before IO ) average time 105.0 ms
+search done (include IO ) average time 222.0 ms
+Find K 5000
+
+leaf node 6992
+target size 7292
+search done touch data (before IO ) average time 120.0 ms
+search done (include IO ) average time 377.0 ms
+Find K 5000
+
+leaf node 6992
+target size 7292
+search done touch data (before IO ) average time 126.0 ms
+search done (include IO ) average time 261.0 ms
+Find K 5000
+
+leaf node 6992
+target size 7292
+search done touch data (before IO ) average time 138.0 ms
+search done (include IO ) average time 257.0 ms
+Find K 5000
+
+leaf node 6992
+target size 7292
+search done touch data (before IO ) average time 125.0 ms
+search done (include IO ) average time 257.0 ms
+Find K 5000
+
+leaf node 6992
+target size 7292
+search done touch data (before IO ) average time 141.0 ms
+search done (include IO ) average time 273.0 ms
+Find K 5000
+
+leaf node 6992
+target size 7292
+search done touch data (before IO ) average time 124.0 ms
+search done (include IO ) average time 232.0 ms
+Find K 5000
+
+leaf node 6992
+target size 7292
+search done touch data (before IO ) average time 136.0 ms
+search done (include IO ) average time 273.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 11
+Milliseconds      : 307
+Ticks             : 113075330
+TotalDays         : 0.000130874224537037
+TotalHours        : 0.00314098138888889
+TotalMinutes      : 0.188458883333333
+TotalSeconds      : 11.307533
+TotalMilliseconds : 11307.533
+
+
+
+8 " topK  done "
+16 knode start...
+A subdirectory or file 16 already exists.
+16 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 134217756
+318 length
+recover index file 4115 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 5000
+
+leaf node 3496
+target size 7292
+search done touch data (before IO ) average time 1473.0 ms
+search done (include IO ) average time 3356.0 ms
+Find K 5000
+
+leaf node 3496
+target size 7292
+search done touch data (before IO ) average time 93.0 ms
+search done (include IO ) average time 330.0 ms
+Find K 5000
+
+leaf node 3496
+target size 7292
+search done touch data (before IO ) average time 77.0 ms
+search done (include IO ) average time 227.0 ms
+Find K 5000
+
+leaf node 3496
+target size 7292
+search done touch data (before IO ) average time 109.0 ms
+search done (include IO ) average time 353.0 ms
+Find K 5000
+
+leaf node 3496
+target size 7292
+search done touch data (before IO ) average time 69.0 ms
+search done (include IO ) average time 276.0 ms
+Find K 5000
+
+leaf node 3496
+target size 7292
+search done touch data (before IO ) average time 91.0 ms
+search done (include IO ) average time 545.0 ms
+Find K 5000
+
+leaf node 3496
+target size 7292
+search done touch data (before IO ) average time 85.0 ms
+search done (include IO ) average time 280.0 ms
+Find K 5000
+
+leaf node 3496
+target size 7292
+search done touch data (before IO ) average time 91.0 ms
+search done (include IO ) average time 703.0 ms
+Find K 5000
+
+leaf node 3496
+target size 7292
+search done touch data (before IO ) average time 82.0 ms
+search done (include IO ) average time 239.0 ms
+Find K 5000
+
+leaf node 3496
+target size 7292
+search done touch data (before IO ) average time 122.0 ms
+search done (include IO ) average time 273.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 12
+Milliseconds      : 133
+Ticks             : 121339559
+TotalDays         : 0.000140439304398148
+TotalHours        : 0.00337054330555556
+TotalMinutes      : 0.202232598333333
+TotalSeconds      : 12.1339559
+TotalMilliseconds : 12133.9559
+
+
+
+16 " topK  done "
+32 knode start...
+A subdirectory or file 32 already exists.
+32 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 67108892
+318 length
+recover index file 3201 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 5000
+
+leaf node 1748
+target size 7292
+search done touch data (before IO ) average time 741.0 ms
+search done (include IO ) average time 2949.0 ms
+Find K 5000
+
+leaf node 1748
+target size 7292
+search done touch data (before IO ) average time 110.0 ms
+search done (include IO ) average time 415.0 ms
+Find K 5000
+
+leaf node 1748
+target size 7292
+search done touch data (before IO ) average time 73.0 ms
+search done (include IO ) average time 345.0 ms
+Find K 5000
+
+leaf node 1748
+target size 7292
+search done touch data (before IO ) average time 100.0 ms
+search done (include IO ) average time 469.0 ms
+Find K 5000
+
+leaf node 1748
+target size 7292
+search done touch data (before IO ) average time 142.0 ms
+search done (include IO ) average time 581.0 ms
+Find K 5000
+
+leaf node 1748
+target size 7292
+search done touch data (before IO ) average time 217.0 ms
+search done (include IO ) average time 553.0 ms
+Find K 5000
+
+leaf node 1748
+target size 7292
+search done touch data (before IO ) average time 199.0 ms
+search done (include IO ) average time 628.0 ms
+Find K 5000
+
+leaf node 1748
+target size 7292
+search done touch data (before IO ) average time 249.0 ms
+search done (include IO ) average time 791.0 ms
+Find K 5000
+
+leaf node 1748
+target size 7292
+search done touch data (before IO ) average time 103.0 ms
+search done (include IO ) average time 791.0 ms
+Find K 5000
+
+leaf node 1748
+target size 7292
+search done touch data (before IO ) average time 103.0 ms
+search done (include IO ) average time 517.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 13
+Milliseconds      : 688
+Ticks             : 136880525
+TotalDays         : 0.000158426533564815
+TotalHours        : 0.00380223680555556
+TotalMinutes      : 0.228134208333333
+TotalSeconds      : 13.6880525
+TotalMilliseconds : 13688.0525
+
+
+
+32 " topK  done "
+64 knode start...
+A subdirectory or file 64 already exists.
+64 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 33554460
+318 length
+recover index file 2576 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 5000
+
+leaf node 1377
+target size 7292
+search done touch data (before IO ) average time 4211.0 ms
+search done (include IO ) average time 6366.0 ms
+Find K 5000
+
+leaf node 1377
+target size 7292
+search done touch data (before IO ) average time 56.0 ms
+search done (include IO ) average time 299.0 ms
+Find K 5000
+
+leaf node 1377
+target size 7292
+search done touch data (before IO ) average time 94.0 ms
+search done (include IO ) average time 317.0 ms
+Find K 5000
+
+leaf node 1377
+target size 7292
+search done touch data (before IO ) average time 67.0 ms
+search done (include IO ) average time 278.0 ms
+Find K 5000
+
+leaf node 1377
+target size 7292
+search done touch data (before IO ) average time 66.0 ms
+search done (include IO ) average time 286.0 ms
+Find K 5000
+
+leaf node 1377
+target size 7292
+search done touch data (before IO ) average time 92.0 ms
+search done (include IO ) average time 428.0 ms
+Find K 5000
+
+leaf node 1377
+target size 7292
+search done touch data (before IO ) average time 61.0 ms
+search done (include IO ) average time 233.0 ms
+Find K 5000
+
+leaf node 1377
+target size 7292
+search done touch data (before IO ) average time 54.0 ms
+search done (include IO ) average time 267.0 ms
+Find K 5000
+
+leaf node 1377
+target size 7292
+search done touch data (before IO ) average time 56.0 ms
+search done (include IO ) average time 251.0 ms
+Find K 5000
+
+leaf node 1377
+target size 7292
+search done touch data (before IO ) average time 59.0 ms
+search done (include IO ) average time 266.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 13
+Milliseconds      : 91
+Ticks             : 130913390
+TotalDays         : 0.000151520127314815
+TotalHours        : 0.00363648305555556
+TotalMinutes      : 0.218188983333333
+TotalSeconds      : 13.091339
+TotalMilliseconds : 13091.339
+
+
+
+64 " topK  done "
+128 knode start...
+A subdirectory or file 128 already exists.
+128 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 16777244
+318 length
+recover index file 2282 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 5000
+
+leaf node 859
+target size 7292
+search done touch data (before IO ) average time 1496.0 ms
+search done (include IO ) average time 6485.0 ms
+Find K 5000
+
+leaf node 859
+target size 7292
+search done touch data (before IO ) average time 88.0 ms
+search done (include IO ) average time 329.0 ms
+Find K 5000
+
+leaf node 859
+target size 7292
+search done touch data (before IO ) average time 44.0 ms
+search done (include IO ) average time 234.0 ms
+Find K 5000
+
+leaf node 859
+target size 7292
+search done touch data (before IO ) average time 50.0 ms
+search done (include IO ) average time 257.0 ms
+Find K 5000
+
+leaf node 859
+target size 7292
+search done touch data (before IO ) average time 79.0 ms
+search done (include IO ) average time 279.0 ms
+Find K 5000
+
+leaf node 859
+target size 7292
+search done touch data (before IO ) average time 59.0 ms
+search done (include IO ) average time 263.0 ms
+Find K 5000
+
+leaf node 859
+target size 7292
+search done touch data (before IO ) average time 40.0 ms
+search done (include IO ) average time 245.0 ms
+Find K 5000
+
+leaf node 859
+target size 7292
+search done touch data (before IO ) average time 52.0 ms
+search done (include IO ) average time 262.0 ms
+Find K 5000
+
+leaf node 859
+target size 7292
+search done touch data (before IO ) average time 53.0 ms
+search done (include IO ) average time 250.0 ms
+Find K 5000
+
+leaf node 859
+target size 7292
+search done touch data (before IO ) average time 37.0 ms
+search done (include IO ) average time 253.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 13
+Milliseconds      : 997
+Ticks             : 139974731
+TotalDays         : 0.000162007790509259
+TotalHours        : 0.00388818697222222
+TotalMinutes      : 0.233291218333333
+TotalSeconds      : 13.9974731
+TotalMilliseconds : 13997.4731
+
+
+
+128 " topK  done "
+256 knode start...
+A subdirectory or file 256 already exists.
+256 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 8388636
+318 length
+recover index file 1674 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 5000
+
+leaf node 724
+target size 7292
+search done touch data (before IO ) average time 2076.0 ms
+search done (include IO ) average time 4826.0 ms
+Find K 5000
+
+leaf node 724
+target size 7292
+search done touch data (before IO ) average time 54.0 ms
+search done (include IO ) average time 245.0 ms
+Find K 5000
+
+leaf node 724
+target size 7292
+search done touch data (before IO ) average time 56.0 ms
+search done (include IO ) average time 219.0 ms
+Find K 5000
+
+leaf node 724
+target size 7292
+search done touch data (before IO ) average time 74.0 ms
+search done (include IO ) average time 312.0 ms
+Find K 5000
+
+leaf node 724
+target size 7292
+search done touch data (before IO ) average time 85.0 ms
+search done (include IO ) average time 328.0 ms
+Find K 5000
+
+leaf node 724
+target size 7292
+search done touch data (before IO ) average time 58.0 ms
+search done (include IO ) average time 280.0 ms
+Find K 5000
+
+leaf node 724
+target size 7292
+search done touch data (before IO ) average time 89.0 ms
+search done (include IO ) average time 248.0 ms
+Find K 5000
+
+leaf node 724
+target size 7292
+search done touch data (before IO ) average time 69.0 ms
+search done (include IO ) average time 211.0 ms
+Find K 5000
+
+leaf node 724
+target size 7292
+search done touch data (before IO ) average time 82.0 ms
+search done (include IO ) average time 321.0 ms
+Find K 5000
+
+leaf node 724
+target size 7292
+search done touch data (before IO ) average time 81.0 ms
+search done (include IO ) average time 307.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 11
+Milliseconds      : 509
+Ticks             : 115098537
+TotalDays         : 0.000133215899305556
+TotalHours        : 0.00319718158333333
+TotalMinutes      : 0.191830895
+TotalSeconds      : 11.5098537
+TotalMilliseconds : 11509.8537
+
+
+
+256 " topK  done "
+512 knode start...
+A subdirectory or file 512 already exists.
+512 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 4194332
+318 length
+recover index file 2652 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 5000
+
+leaf node 362
+target size 7292
+search done touch data (before IO ) average time 550.0 ms
+search done (include IO ) average time 2659.0 ms
+Find K 5000
+
+leaf node 362
+target size 7292
+search done touch data (before IO ) average time 132.0 ms
+search done (include IO ) average time 380.0 ms
+Find K 5000
+
+leaf node 362
+target size 7292
+search done touch data (before IO ) average time 68.0 ms
+search done (include IO ) average time 324.0 ms
+Find K 5000
+
+leaf node 362
+target size 7292
+search done touch data (before IO ) average time 166.0 ms
+search done (include IO ) average time 482.0 ms
+Find K 5000
+
+leaf node 362
+target size 7292
+search done touch data (before IO ) average time 74.0 ms
+search done (include IO ) average time 327.0 ms
+Find K 5000
+
+leaf node 362
+target size 7292
+search done touch data (before IO ) average time 83.0 ms
+search done (include IO ) average time 295.0 ms
+Find K 5000
+
+leaf node 362
+target size 7292
+search done touch data (before IO ) average time 62.0 ms
+search done (include IO ) average time 265.0 ms
+Find K 5000
+
+leaf node 362
+target size 7292
+search done touch data (before IO ) average time 71.0 ms
+search done (include IO ) average time 308.0 ms
+Find K 5000
+
+leaf node 362
+target size 7292
+search done touch data (before IO ) average time 81.0 ms
+search done (include IO ) average time 436.0 ms
+Find K 5000
+
+leaf node 362
+target size 7292
+search done touch data (before IO ) average time 81.0 ms
+search done (include IO ) average time 380.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 9
+Milliseconds      : 819
+Ticks             : 98195102
+TotalDays         : 0.000113651738425926
+TotalHours        : 0.00272764172222222
+TotalMinutes      : 0.163658503333333
+TotalSeconds      : 9.8195102
+TotalMilliseconds : 9819.5102
+
+
+
+512 " topK  done "
+1024 knode start...
+A subdirectory or file 1024 already exists.
+1024 Query topK start...
+//////////// testdata65newrecordL.dat
+leafnode kdtree data length 2097180
+318 length
+recover index file 2917 ms
+3,100.0,100.0
+4,600.0,600.0
+0,1000,1000
+Find K 5000
+
+leaf node 181
+target size 7292
+search done touch data (before IO ) average time 726.0 ms
+search done (include IO ) average time 2366.0 ms
+Find K 5000
+
+leaf node 181
+target size 7292
+search done touch data (before IO ) average time 90.0 ms
+search done (include IO ) average time 374.0 ms
+Find K 5000
+
+leaf node 181
+target size 7292
+search done touch data (before IO ) average time 56.0 ms
+search done (include IO ) average time 307.0 ms
+Find K 5000
+
+leaf node 181
+target size 7292
+search done touch data (before IO ) average time 89.0 ms
+search done (include IO ) average time 352.0 ms
+Find K 5000
+
+leaf node 181
+target size 7292
+search done touch data (before IO ) average time 74.0 ms
+search done (include IO ) average time 354.0 ms
+Find K 5000
+
+leaf node 181
+target size 7292
+search done touch data (before IO ) average time 66.0 ms
+search done (include IO ) average time 309.0 ms
+Find K 5000
+
+leaf node 181
+target size 7292
+search done touch data (before IO ) average time 59.0 ms
+search done (include IO ) average time 280.0 ms
+Find K 5000
+
+leaf node 181
+target size 7292
+search done touch data (before IO ) average time 61.0 ms
+search done (include IO ) average time 288.0 ms
+Find K 5000
+
+leaf node 181
+target size 7292
+search done touch data (before IO ) average time 67.0 ms
+search done (include IO ) average time 300.0 ms
+Find K 5000
+
+leaf node 181
+target size 7292
+search done touch data (before IO ) average time 57.0 ms
+search done (include IO ) average time 243.0 ms
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 9
+Milliseconds      : 978
+Ticks             : 99780774
+TotalDays         : 0.000115487006944444
+TotalHours        : 0.00277168816666667
+TotalMinutes      : 0.16630129
+TotalSeconds      : 9.9780774
+TotalMilliseconds : 9978.0774
+
+
+
+1024 " topK  done "
+5000 top done
+Press any key to continue . . .
+PS C:\Users\yuanchunyu\Desktop>

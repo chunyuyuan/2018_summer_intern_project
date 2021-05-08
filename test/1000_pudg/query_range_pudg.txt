@@ -1,0 +1,13 @@
+#range query other field 
+1,2,5,6
+#weapon ID
+0,1000,1000
+#killer y position 
+2,100.0,150.0
+#killer x position
+1,600.0,700.0
+#viect y position
+4,100.0,500.0
+#viect x position 
+3,600.0,800.0
+

@@ -1,0 +1,440 @@
+Linux
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+String file size 0 bytes
+StringPosition file size 522963800 bytes
+read finished e
+5000000 size sorting done
+10000000 size sorting done
+15000000 size sorting done
+20000000 size sorting done
+25000000 size sorting done
+30000000 size sorting done
+35000000 size sorting done
+40000000 size sorting done
+45000000 size sorting done
+50000000 size sorting done
+55000000 size sorting done
+60000000 size sorting done
+65000000 size sorting done
+kblock file size  1568891400 bytes
+130740949 total node
+kdtree file size  2091855228 bytes
+
+real	36m31.902s
+user	227m31.337s
+sys	9m20.259s
+1 done
+Linux
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+String file size 0 bytes
+StringPosition file size 522963800 bytes
+read finished e
+5000001 size sorting done
+10000001 size sorting done
+15000000 size sorting done
+20000000 size sorting done
+25000000 size sorting done
+30000001 size sorting done
+35000001 size sorting done
+40000000 size sorting done
+45000000 size sorting done
+50000000 size sorting done
+55000000 size sorting done
+60000001 size sorting done
+65000000 size sorting done
+kblock file size  1568891400 bytes
+67108863 total node
+kdtree file size  1073741852 bytes
+
+real	33m1.711s
+user	168m16.964s
+sys	7m39.468s
+2 done
+Linux
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+String file size 0 bytes
+StringPosition file size 522963800 bytes
+read finished e
+5000003 size sorting done
+10000003 size sorting done
+15000000 size sorting done
+20000002 size sorting done
+25000002 size sorting done
+30000003 size sorting done
+35000001 size sorting done
+40000000 size sorting done
+45000002 size sorting done
+50000000 size sorting done
+55000000 size sorting done
+60000001 size sorting done
+65000000 size sorting done
+kblock file size  1568891400 bytes
+33554431 total node
+kdtree file size  536870940 bytes
+
+real	31m2.200s
+user	131m15.382s
+sys	6m53.829s
+4 done
+Linux
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+String file size 0 bytes
+StringPosition file size 522963800 bytes
+read finished e
+5000007 size sorting done
+10000003 size sorting done
+15000000 size sorting done
+20000002 size sorting done
+25000006 size sorting done
+30000003 size sorting done
+35000005 size sorting done
+40000000 size sorting done
+45000006 size sorting done
+50000000 size sorting done
+55000004 size sorting done
+60000001 size sorting done
+65000004 size sorting done
+kblock file size  1568891400 bytes
+16777215 total node
+kdtree file size  268435484 bytes
+
+real	30m29.419s
+user	120m26.265s
+sys	6m45.151s
+8 done
+Linux
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+String file size 0 bytes
+StringPosition file size 522963800 bytes
+read finished e
+5000007 size sorting done
+10000003 size sorting done
+15000000 size sorting done
+20000010 size sorting done
+25000006 size sorting done
+30000003 size sorting done
+35000013 size sorting done
+40000008 size sorting done
+45000006 size sorting done
+50000000 size sorting done
+55000012 size sorting done
+60000009 size sorting done
+65000004 size sorting done
+kblock file size  1568891400 bytes
+8388607 total node
+kdtree file size  134217756 bytes
+
+real	31m30.917s
+user	119m45.526s
+sys	7m44.604s
+16 done
+Linux
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+String file size 0 bytes
+StringPosition file size 522963800 bytes
+read finished e
+5000023 size sorting done
+10000019 size sorting done
+15000016 size sorting done
+20000010 size sorting done
+25000006 size sorting done
+30000003 size sorting done
+35000029 size sorting done
+40000024 size sorting done
+45000022 size sorting done
+50000016 size sorting done
+55000012 size sorting done
+60000009 size sorting done
+65000004 size sorting done
+kblock file size  1568891400 bytes
+4194303 total node
+kdtree file size  67108892 bytes
+
+real	30m20.752s
+user	112m59.841s
+sys	6m22.862s
+32 done
+Linux
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+String file size 0 bytes
+StringPosition file size 522963800 bytes
+read finished e
+5000023 size sorting done
+10000051 size sorting done
+15000016 size sorting done
+20000041 size sorting done
+25000006 size sorting done
+30000035 size sorting done
+35000060 size sorting done
+40000024 size sorting done
+45000054 size sorting done
+50000016 size sorting done
+55000043 size sorting done
+60000009 size sorting done
+65000035 size sorting done
+kblock file size  1568891400 bytes
+2097151 total node
+kdtree file size  33554460 bytes
+
+real	29m28.481s
+user	108m26.273s
+sys	6m13.511s
+64 done
+Linux
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+String file size 0 bytes
+StringPosition file size 522963800 bytes
+read finished e
+5000086 size sorting done
+10000051 size sorting done
+15000016 size sorting done
+20000104 size sorting done
+25000069 size sorting done
+30000035 size sorting done
+35000123 size sorting done
+40000087 size sorting done
+45000054 size sorting done
+50000016 size sorting done
+55000106 size sorting done
+60000072 size sorting done
+65000035 size sorting done
+kblock file size  1568891400 bytes
+1048575 total node
+kdtree file size  16777244 bytes
+
+real	30m17.417s
+user	108m30.608s
+sys	6m19.410s
+128 done
+Linux
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+String file size 0 bytes
+StringPosition file size 522963800 bytes
+read finished e
+5000086 size sorting done
+10000176 size sorting done
+15000016 size sorting done
+20000104 size sorting done
+25000194 size sorting done
+30000035 size sorting done
+35000123 size sorting done
+40000212 size sorting done
+45000054 size sorting done
+50000141 size sorting done
+55000231 size sorting done
+60000072 size sorting done
+65000160 size sorting done
+kblock file size  1568891400 bytes
+524287 total node
+kdtree file size  8388636 bytes
+
+real	29m24.556s
+user	107m55.651s
+sys	6m24.778s
+256 done
+Linux
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+String file size 0 bytes
+StringPosition file size 522963800 bytes
+read finished e
+5000336 size sorting done
+10000176 size sorting done
+15000016 size sorting done
+20000354 size sorting done
+25000194 size sorting done
+30000035 size sorting done
+35000373 size sorting done
+40000212 size sorting done
+45000054 size sorting done
+50000391 size sorting done
+55000231 size sorting done
+60000072 size sorting done
+65000410 size sorting done
+kblock file size  1568891400 bytes
+262143 total node
+kdtree file size  4194332 bytes
+
+real	28m58.921s
+user	95m13.820s
+sys	6m5.229s
+512 done
+Linux
+Start
+0 read done
+5000000 read done
+10000000 read done
+15000000 read done
+20000000 read done
+25000000 read done
+30000000 read done
+35000000 read done
+40000000 read done
+45000000 read done
+50000000 read done
+55000000 read done
+60000000 read done
+65000000 read done
+String file size 0 bytes
+StringPosition file size 522963800 bytes
+read finished e
+5000336 size sorting done
+10000675 size sorting done
+15000016 size sorting done
+20000354 size sorting done
+25000693 size sorting done
+30000035 size sorting done
+35000373 size sorting done
+40000711 size sorting done
+45000054 size sorting done
+50000391 size sorting done
+55000730 size sorting done
+60000072 size sorting done
+65000410 size sorting done
+kblock file size  1568891400 bytes
+131071 total node
+kdtree file size  2097180 bytes
+
+real	29m58.567s
+user	106m57.321s
+sys	6m18.156s
+1024 done

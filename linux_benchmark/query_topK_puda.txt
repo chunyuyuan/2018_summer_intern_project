@@ -1,0 +1,10 @@
+@query top k , x key, y key
+3,4
+#original record field key 5,6,7
+5,6,7
+#set x
+3,100.0,100.0
+#set y
+4,600.0,600.0
+#set other condition 
+0,1000,1000

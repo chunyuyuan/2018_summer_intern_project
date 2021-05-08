@@ -1,0 +1,13 @@
+
+killed_by 1000
+killer_position_x 657.7251
+killer_position_y 146.2752
+victim_position_x 657.7251
+victim_position_y 146.2752
+killer_name KrazyPortuguese
+killer_placement 5.0
+map MIRAMAR
+match_id 2U4GBNA0YmnLSqvEycnTjo-KT000vfUnhSA2vfVhVPe1QBwCTNTBJ5B_1Ocel6nY 
+
+
+running time 5 ms
